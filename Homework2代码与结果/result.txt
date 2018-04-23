@@ -1,0 +1,1992 @@
+item: ('3.0', 'otc alterations permit', 'wood frame (5)', 'St') , support = 0.150
+item: ('3.0', '8', 'wood frame (5)', 'St') , support = 0.150
+item: ('5.0', 'wood frame (5)', 'St', '3.0', '8') , support = 0.150
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '3.0') , support = 0.150
+item: ('otc alterations permit', 'wood frame (5)', 'St', '3.0', '8') , support = 0.150
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '3.0', '8') , support = 0.150
+item: ('otc alterations permit', '1.0', 'St') , support = 0.150
+item: ('8', '1.0', 'St') , support = 0.150
+item: ('1.0', '8', 'otc alterations permit', 'St') , support = 0.150
+item: ('2.0', 'complete', '3.0') , support = 0.151
+item: ('2.0', 'Av') , support = 0.152
+item: ('5.0', 'complete', '3.0') , support = 0.153
+item: ('5.0', '8', 'Av') , support = 0.153
+item: ('5.0', 'otc alterations permit', 'Av') , support = 0.153
+item: ('5.0', '8', 'otc alterations permit', 'Av') , support = 0.153
+item: ('complete', '3.0', '8', 'St') , support = 0.153
+item: ('complete', '3.0', 'otc alterations permit', 'St') , support = 0.153
+item: ('complete', 'otc alterations permit', 'St', '3.0', '8') , support = 0.153
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '2.0') , support = 0.155
+item: ('5.0', 'complete', 'St', '8', '2.0') , support = 0.155
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '8', '2.0') , support = 0.155
+item: ('otc alterations permit', 'wood frame (5)', 'apartments') , support = 0.156
+item: ('8', 'wood frame (5)', 'apartments') , support = 0.156
+item: ('5.0', 'apartments', '8', 'wood frame (5)') , support = 0.156
+item: ('5.0', 'apartments', 'otc alterations permit', 'wood frame (5)') , support = 0.156
+item: ('8', 'apartments', 'otc alterations permit', 'wood frame (5)') , support = 0.156
+item: ('5.0', 'apartments', 'otc alterations permit', 'wood frame (5)', '8') , support = 0.156
+item: ('5.0', '3.0', '8', 'St') , support = 0.158
+item: ('5.0', '3.0', 'otc alterations permit', 'St') , support = 0.158
+item: ('5.0', 'otc alterations permit', 'St', '3.0', '8') , support = 0.158
+item: ('complete', '2.0', 'wood frame (5)', 'St') , support = 0.160
+item: ('5.0', 'complete', 'wood frame (5)', 'St', '2.0') , support = 0.160
+item: ('2.0', 'wood frame (5)', '3.0') , support = 0.161
+item: ('5.0', '3.0', '2.0', 'wood frame (5)') , support = 0.161
+item: ('issued', '2.0', 'St') , support = 0.162
+item: ('wood frame (5)', 'Av') , support = 0.164
+item: ('5.0', 'wood frame (5)', 'Av') , support = 0.164
+item: ('5.0', '8', 'apartments') , support = 0.165
+item: ('5.0', 'otc alterations permit', 'apartments') , support = 0.165
+item: ('5.0', 'apartments', '8', 'otc alterations permit') , support = 0.165
+item: ('complete', '3.0', 'St') , support = 0.165
+item: ('issued', 'wood frame (5)') , support = 0.167
+item: ('5.0', 'issued', 'wood frame (5)') , support = 0.167
+item: ('otc alterations permit', '0.0', 'wood frame (5)', 'St') , support = 0.167
+item: ('8', '0.0', 'wood frame (5)', 'St') , support = 0.167
+item: ('0.0', 'wood frame (5)', 'St', 'otc alterations permit', '8') , support = 0.167
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '0.0') , support = 0.167
+item: ('5.0', '0.0', 'wood frame (5)', 'St', '8') , support = 0.167
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '0.0', '8') , support = 0.167
+item: ('otc alterations permit', '2.0', '1.0') , support = 0.168
+item: ('8', '2.0', '1.0') , support = 0.168
+item: ('1.0', '8', 'otc alterations permit', '2.0') , support = 0.168
+item: ('St', 'apartments') , support = 0.168
+item: ('otc alterations permit', '0.0', '2.0', 'wood frame (5)') , support = 0.169
+item: ('8', '0.0', '2.0', 'wood frame (5)') , support = 0.169
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', '0.0', '2.0') , support = 0.169
+item: ('otc alterations permit', 'wood frame (5)', '0.0', '8', '2.0') , support = 0.169
+item: ('5.0', '0.0', 'wood frame (5)', '8', '2.0') , support = 0.169
+item: ('5.0', '0.0', 'wood frame (5)', 'otc alterations permit', '8', '2.0') , support = 0.169
+item: ('0.0', 'wood frame (5)', 'St') , support = 0.169
+item: ('5.0', '0.0', 'wood frame (5)', 'St') , support = 0.169
+item: ('5.0', 'complete', '2.0', 'St') , support = 0.169
+item: ('5.0', '8', '0.0', '2.0') , support = 0.169
+item: ('5.0', '0.0', 'otc alterations permit', '2.0') , support = 0.169
+item: ('5.0', '0.0', 'otc alterations permit', '8', '2.0') , support = 0.169
+item: ('5.0', '2.0', '3.0') , support = 0.170
+item: ('0.0', '2.0', 'wood frame (5)') , support = 0.170
+item: ('5.0', '0.0', '2.0', 'wood frame (5)') , support = 0.170
+item: ('1.0', 'St') , support = 0.170
+item: ('5.0', '0.0', '2.0') , support = 0.171
+item: ('5.0', 'Av') , support = 0.171
+item: ('5.0', '8', '0.0', 'St') , support = 0.172
+item: ('5.0', '0.0', 'otc alterations permit', 'St') , support = 0.172
+item: ('5.0', '0.0', 'St', 'otc alterations permit', '8') , support = 0.172
+item: ('wood frame (5)', '3.0', 'St') , support = 0.172
+item: ('5.0', '3.0', 'wood frame (5)', 'St') , support = 0.172
+item: ('3.0', 'otc alterations permit', '2.0', 'St') , support = 0.173
+item: ('3.0', '8', '2.0', 'St') , support = 0.173
+item: ('otc alterations permit', 'St', '3.0', '8', '2.0') , support = 0.173
+item: ('5.0', '0.0', 'St') , support = 0.174
+item: ('5.0', '8', 'issued') , support = 0.175
+item: ('5.0', 'otc alterations permit', 'issued') , support = 0.175
+item: ('5.0', 'issued', '8', 'otc alterations permit') , support = 0.175
+item: ('otc alterations permit', '2.0', '0.0') , support = 0.178
+item: ('8', '2.0', '0.0') , support = 0.178
+item: ('0.0', '8', 'otc alterations permit', '2.0') , support = 0.178
+item: ('0.0', '2.0') , support = 0.180
+item: ('wood frame (5)', 'apartments') , support = 0.180
+item: ('5.0', 'wood frame (5)', 'apartments') , support = 0.180
+item: ('5.0', '3.0', 'St') , support = 0.182
+item: ('1 family dwelling', 'otc alterations permit', '2.0', 'wood frame (5)') , support = 0.183
+item: ('1 family dwelling', '8', '2.0', 'wood frame (5)') , support = 0.183
+item: ('5.0', '1 family dwelling', 'otc alterations permit', 'wood frame (5)', '2.0') , support = 0.183
+item: ('5.0', '1 family dwelling', 'wood frame (5)', '8', '2.0') , support = 0.183
+item: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)', '8', '2.0') , support = 0.183
+item: ('5.0', '1 family dwelling', 'otc alterations permit', 'wood frame (5)', '8', '2.0') , support = 0.183
+item: ('5.0', '1 family dwelling', '8', '2.0') , support = 0.183
+item: ('5.0', '1 family dwelling', 'otc alterations permit', '2.0') , support = 0.183
+item: ('5.0', '1 family dwelling', 'otc alterations permit', '8', '2.0') , support = 0.183
+item: ('1 family dwelling', 'otc alterations permit', '2.0') , support = 0.184
+item: ('1 family dwelling', '8', '2.0') , support = 0.184
+item: ('8', '1 family dwelling', 'otc alterations permit', '2.0') , support = 0.184
+item: ('5.0', 'apartments') , support = 0.189
+item: ('8', 'apartments') , support = 0.189
+item: ('otc alterations permit', 'apartments') , support = 0.189
+item: ('otc alterations permit', '8', 'apartments') , support = 0.189
+item: ('otc alterations permit', '0.0', 'St') , support = 0.191
+item: ('0.0', '8', 'St') , support = 0.191
+item: ('8', 'otc alterations permit', '0.0', 'St') , support = 0.191
+item: ('0.0', 'St') , support = 0.194
+item: ('complete', '0.0', '8', 'wood frame (5)') , support = 0.195
+item: ('complete', 'otc alterations permit', '0.0', 'wood frame (5)') , support = 0.195
+item: ('complete', '0.0', 'wood frame (5)', 'otc alterations permit', '8') , support = 0.195
+item: ('5.0', 'complete', '0.0', 'wood frame (5)', '8') , support = 0.195
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '0.0') , support = 0.195
+item: ('5.0', 'complete', '0.0', 'wood frame (5)', 'otc alterations permit', '8') , support = 0.195
+item: ('2.0', '1.0') , support = 0.196
+item: ('0.0', 'wood frame (5)', 'complete') , support = 0.196
+item: ('5.0', 'complete', '0.0', 'wood frame (5)') , support = 0.196
+item: ('5.0', 'issued') , support = 0.196
+item: ('otc alterations permit', 'Av') , support = 0.197
+item: ('8', 'Av') , support = 0.197
+item: ('otc alterations permit', '8', 'Av') , support = 0.197
+item: ('issued', '2.0', 'otc alterations permit') , support = 0.198
+item: ('issued', '2.0', '8') , support = 0.198
+item: ('issued', '8', 'otc alterations permit', '2.0') , support = 0.198
+item: ('5.0', 'complete', '8', '0.0') , support = 0.198
+item: ('5.0', 'complete', 'otc alterations permit', '0.0') , support = 0.198
+item: ('5.0', 'complete', 'otc alterations permit', '0.0', '8') , support = 0.198
+item: ('5.0', '0.0', 'complete') , support = 0.199
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St') , support = 0.200
+item: ('complete', '8', 'wood frame (5)', 'St') , support = 0.200
+item: ('complete', 'otc alterations permit', 'wood frame (5)', 'St', '8') , support = 0.200
+item: ('5.0', 'complete', 'wood frame (5)', 'St', '8') , support = 0.200
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St') , support = 0.200
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', 'St', '8') , support = 0.200
+item: ('otc alterations permit', 'complete', '3.0') , support = 0.203
+item: ('8', 'complete', '3.0') , support = 0.203
+item: ('complete', '3.0', '8', 'otc alterations permit') , support = 0.203
+item: ('2.0', '3.0', 'St') , support = 0.207
+item: ('1 family dwelling', '2.0', 'wood frame (5)') , support = 0.207
+item: ('5.0', '1 family dwelling', '2.0', 'wood frame (5)') , support = 0.207
+item: ('1 family dwelling', '5.0', '2.0') , support = 0.207
+item: ('1 family dwelling', '2.0') , support = 0.208
+item: ('5.0', 'complete', '8', 'St') , support = 0.211
+item: ('5.0', 'complete', 'otc alterations permit', 'St') , support = 0.211
+item: ('5.0', 'complete', 'otc alterations permit', 'St', '8') , support = 0.211
+item: ('wood frame (5)', 'complete', 'St') , support = 0.214
+item: ('5.0', 'complete', 'wood frame (5)', 'St') , support = 0.214
+item: ('0.0', 'complete', 'otc alterations permit') , support = 0.214
+item: ('8', 'complete', '0.0') , support = 0.214
+item: ('complete', 'otc alterations permit', '0.0', '8') , support = 0.214
+item: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') , support = 0.214
+item: ('1 family dwelling', '8', 'wood frame (5)') , support = 0.214
+item: ('5.0', '1 family dwelling', '8', 'wood frame (5)') , support = 0.214
+item: ('5.0', '1 family dwelling', 'otc alterations permit', 'wood frame (5)') , support = 0.214
+item: ('8', '1 family dwelling', 'otc alterations permit', 'wood frame (5)') , support = 0.214
+item: ('5.0', '1 family dwelling', 'otc alterations permit', 'wood frame (5)', '8') , support = 0.214
+item: ('1 family dwelling', '8', '5.0') , support = 0.214
+item: ('5.0', 'otc alterations permit', '1 family dwelling') , support = 0.214
+item: ('5.0', 'otc alterations permit', '1 family dwelling', '8') , support = 0.214
+item: ('otc alterations permit', 'wood frame (5)', '3.0') , support = 0.214
+item: ('8', 'wood frame (5)', '3.0') , support = 0.214
+item: ('3.0', '8', 'otc alterations permit', 'wood frame (5)') , support = 0.214
+item: ('5.0', '3.0', '8', 'wood frame (5)') , support = 0.214
+item: ('5.0', '3.0', 'otc alterations permit', 'wood frame (5)') , support = 0.214
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', '3.0', '8') , support = 0.214
+item: ('0.0', 'complete') , support = 0.215
+item: ('1 family dwelling', '8') , support = 0.216
+item: ('1 family dwelling', 'otc alterations permit') , support = 0.216
+item: ('1 family dwelling', '8', 'otc alterations permit') , support = 0.216
+item: ('Av',) , support = 0.217
+item: ('apartments',) , support = 0.218
+item: ('complete', '3.0') , support = 0.219
+item: ('otc alterations permit', '2.0', '3.0') , support = 0.221
+item: ('8', '2.0', '3.0') , support = 0.221
+item: ('3.0', '8', 'otc alterations permit', '2.0') , support = 0.221
+item: ('otc alterations permit', '1.0') , support = 0.223
+item: ('8', '1.0') , support = 0.223
+item: ('otc alterations permit', '1.0', '8') , support = 0.223
+item: ('5.0', '8', '3.0') , support = 0.224
+item: ('5.0', 'otc alterations permit', '3.0') , support = 0.224
+item: ('5.0', '3.0', '8', 'otc alterations permit') , support = 0.224
+item: ('5.0', 'complete', 'St') , support = 0.226
+item: ('issued', '2.0') , support = 0.230
+item: ('1 family dwelling', 'wood frame (5)') , support = 0.238
+item: ('5.0', '1 family dwelling', 'wood frame (5)') , support = 0.238
+item: ('5.0', '1 family dwelling') , support = 0.238
+item: ('otc alterations permit', '2.0', 'wood frame (5)', 'St') , support = 0.239
+item: ('8', '2.0', 'wood frame (5)', 'St') , support = 0.239
+item: ('5.0', 'wood frame (5)', 'St', '8', '2.0') , support = 0.239
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '2.0') , support = 0.239
+item: ('otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') , support = 0.239
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '8', '2.0') , support = 0.239
+item: ('1 family dwelling',) , support = 0.240
+item: ('complete', 'otc alterations permit', '2.0', 'St') , support = 0.246
+item: ('complete', '8', '2.0', 'St') , support = 0.246
+item: ('complete', 'otc alterations permit', 'St', '8', '2.0') , support = 0.246
+item: ('complete', 'otc alterations permit', '2.0', 'wood frame (5)') , support = 0.248
+item: ('complete', '8', '2.0', 'wood frame (5)') , support = 0.248
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '2.0') , support = 0.248
+item: ('complete', 'otc alterations permit', 'wood frame (5)', '8', '2.0') , support = 0.248
+item: ('5.0', 'complete', 'wood frame (5)', '8', '2.0') , support = 0.248
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '8', '2.0') , support = 0.248
+item: ('wood frame (5)', '3.0') , support = 0.248
+item: ('5.0', 'wood frame (5)', '3.0') , support = 0.248
+item: ('5.0', '8', '2.0', 'St') , support = 0.252
+item: ('5.0', 'otc alterations permit', '2.0', 'St') , support = 0.252
+item: ('5.0', 'otc alterations permit', 'St', '8', '2.0') , support = 0.252
+item: ('1.0',) , support = 0.252
+item: ('5.0', 'complete', '8', '2.0') , support = 0.258
+item: ('5.0', 'complete', 'otc alterations permit', '2.0') , support = 0.258
+item: ('5.0', 'complete', 'otc alterations permit', '8', '2.0') , support = 0.258
+item: ('5.0', '3.0') , support = 0.259
+item: ('otc alterations permit', '3.0', 'St') , support = 0.263
+item: ('8', '3.0', 'St') , support = 0.263
+item: ('3.0', '8', 'otc alterations permit', 'St') , support = 0.263
+item: ('2.0', 'wood frame (5)', 'complete') , support = 0.268
+item: ('5.0', 'complete', '2.0', 'wood frame (5)') , support = 0.268
+item: ('2.0', 'complete', 'St') , support = 0.269
+item: ('2.0', '3.0') , support = 0.269
+item: ('8', 'issued', 'St') , support = 0.276
+item: ('otc alterations permit', 'St', 'issued') , support = 0.276
+item: ('otc alterations permit', 'issued', '8', 'St') , support = 0.276
+item: ('5.0', '2.0', 'complete') , support = 0.279
+item: ('2.0', 'wood frame (5)', 'St') , support = 0.281
+item: ('5.0', '2.0', 'wood frame (5)', 'St') , support = 0.281
+item: ('otc alterations permit', 'wood frame (5)', '0.0') , support = 0.287
+item: ('8', 'wood frame (5)', '0.0') , support = 0.287
+item: ('5.0', '8', '0.0', 'wood frame (5)') , support = 0.287
+item: ('8', 'otc alterations permit', '0.0', 'wood frame (5)') , support = 0.287
+item: ('5.0', 'otc alterations permit', '0.0', 'wood frame (5)') , support = 0.287
+item: ('5.0', '0.0', 'wood frame (5)', 'otc alterations permit', '8') , support = 0.287
+item: ('0.0', 'wood frame (5)') , support = 0.289
+item: ('5.0', '0.0', 'wood frame (5)') , support = 0.289
+item: ('5.0', '0.0', '8') , support = 0.292
+item: ('5.0', 'otc alterations permit', '0.0') , support = 0.292
+item: ('5.0', '8', '0.0', 'otc alterations permit') , support = 0.292
+item: ('5.0', '0.0') , support = 0.295
+item: ('5.0', '2.0', 'St') , support = 0.297
+item: ('3.0', 'St') , support = 0.298
+item: ('issued', 'St') , support = 0.298
+item: ('otc alterations permit', 'complete', 'St') , support = 0.310
+item: ('8', 'complete', 'St') , support = 0.310
+item: ('complete', '8', 'otc alterations permit', 'St') , support = 0.310
+item: ('8', 'wood frame (5)', 'St') , support = 0.315
+item: ('otc alterations permit', 'wood frame (5)', 'St') , support = 0.315
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') , support = 0.315
+item: ('otc alterations permit', '8', 'wood frame (5)', 'St') , support = 0.315
+item: ('5.0', '8', 'wood frame (5)', 'St') , support = 0.315
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St', '8') , support = 0.315
+item: ('8', '0.0') , support = 0.317
+item: ('otc alterations permit', '0.0') , support = 0.317
+item: ('otc alterations permit', '8', '0.0') , support = 0.317
+item: ('0.0',) , support = 0.320
+item: ('otc alterations permit', 'wood frame (5)', 'complete') , support = 0.329
+item: ('8', 'wood frame (5)', 'complete') , support = 0.329
+item: ('5.0', 'complete', '8', 'wood frame (5)') , support = 0.329
+item: ('complete', '8', 'otc alterations permit', 'wood frame (5)') , support = 0.329
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)') , support = 0.329
+item: ('5.0', 'complete', 'otc alterations permit', 'wood frame (5)', '8') , support = 0.329
+item: ('complete', 'St') , support = 0.334
+item: ('5.0', '8', 'complete') , support = 0.343
+item: ('5.0', 'otc alterations permit', 'complete') , support = 0.343
+item: ('5.0', 'complete', 'otc alterations permit', '8') , support = 0.343
+item: ('otc alterations permit', '3.0') , support = 0.344
+item: ('8', '3.0') , support = 0.344
+item: ('otc alterations permit', '3.0', '8') , support = 0.344
+item: ('wood frame (5)', 'complete') , support = 0.350
+item: ('5.0', 'wood frame (5)', 'complete') , support = 0.350
+item: ('5.0', '8', 'St') , support = 0.351
+item: ('5.0', 'otc alterations permit', 'St') , support = 0.351
+item: ('5.0', 'otc alterations permit', '8', 'St') , support = 0.351
+item: ('wood frame (5)', 'St') , support = 0.358
+item: ('5.0', 'wood frame (5)', 'St') , support = 0.358
+item: ('8', '2.0', 'complete') , support = 0.360
+item: ('otc alterations permit', '2.0', 'complete') , support = 0.360
+item: ('complete', '8', 'otc alterations permit', '2.0') , support = 0.360
+item: ('5.0', 'complete') , support = 0.365
+item: ('8', 'issued') , support = 0.388
+item: ('otc alterations permit', 'issued') , support = 0.388
+item: ('otc alterations permit', '8', 'issued') , support = 0.388
+item: ('2.0', 'complete') , support = 0.393
+item: ('3.0',) , support = 0.393
+item: ('otc alterations permit', '2.0', 'wood frame (5)') , support = 0.396
+item: ('8', '2.0', 'wood frame (5)') , support = 0.396
+item: ('8', 'otc alterations permit', '2.0', 'wood frame (5)') , support = 0.396
+item: ('5.0', '8', '2.0', 'wood frame (5)') , support = 0.396
+item: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') , support = 0.396
+item: ('5.0', 'otc alterations permit', 'wood frame (5)', '8', '2.0') , support = 0.396
+item: ('5.0', 'St') , support = 0.397
+item: ('5.0', 'otc alterations permit', '2.0') , support = 0.413
+item: ('5.0', '8', '2.0') , support = 0.413
+item: ('5.0', '8', 'otc alterations permit', '2.0') , support = 0.413
+item: ('issued',) , support = 0.420
+item: ('otc alterations permit', '2.0', 'St') , support = 0.421
+item: ('8', '2.0', 'St') , support = 0.421
+item: ('8', 'otc alterations permit', '2.0', 'St') , support = 0.421
+item: ('8', 'complete') , support = 0.455
+item: ('otc alterations permit', 'complete') , support = 0.455
+item: ('8', 'complete', 'otc alterations permit') , support = 0.455
+item: ('2.0', 'wood frame (5)') , support = 0.462
+item: ('5.0', '2.0', 'wood frame (5)') , support = 0.462
+item: ('5.0', '2.0') , support = 0.482
+item: ('complete',) , support = 0.488
+item: ('2.0', 'St') , support = 0.489
+item: ('8', 'wood frame (5)') , support = 0.514
+item: ('otc alterations permit', 'wood frame (5)') , support = 0.514
+item: ('5.0', '8', 'wood frame (5)') , support = 0.514
+item: ('5.0', 'otc alterations permit', 'wood frame (5)') , support = 0.514
+item: ('8', 'wood frame (5)', 'otc alterations permit') , support = 0.514
+item: ('5.0', '8', 'otc alterations permit', 'wood frame (5)') , support = 0.514
+item: ('5.0', 'otc alterations permit') , support = 0.558
+item: ('5.0', '8') , support = 0.558
+item: ('5.0', 'otc alterations permit', '8') , support = 0.558
+item: ('wood frame (5)',) , support = 0.582
+item: ('5.0', 'wood frame (5)') , support = 0.582
+item: ('otc alterations permit', '2.0') , support = 0.608
+item: ('8', '2.0') , support = 0.608
+item: ('otc alterations permit', '2.0', '8') , support = 0.608
+item: ('8', 'St') , support = 0.626
+item: ('otc alterations permit', 'St') , support = 0.626
+item: ('otc alterations permit', '8', 'St') , support = 0.626
+item: ('5.0',) , support = 0.630
+item: ('St',) , support = 0.696
+item: ('2.0',) , support = 0.707
+item: ('8',) , support = 0.899
+item: ('otc alterations permit',) , support = 0.899
+item: ('8', 'otc alterations permit') , support = 0.899
+
+------------------------ RULES:
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('wood frame (5)', 'complete') , confidence = 0.600 , Lift = 1.716
+Rule: ('5.0', '8', '2.0') ==> ('wood frame (5)', 'complete') , confidence = 0.600 , Lift = 1.716
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('8', 'wood frame (5)', 'complete') , confidence = 0.600 , Lift = 1.824
+Rule: ('5.0', '8', '2.0') ==> ('otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.600 , Lift = 1.824
+Rule: ('5.0', 'otc alterations permit', '2.0', '8') ==> ('wood frame (5)', 'complete') , confidence = 0.600 , Lift = 1.716
+Rule: ('5.0', 'St') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.601 , Lift = 1.517
+Rule: ('5.0', 'St') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.601 , Lift = 1.517
+Rule: ('5.0', 'St') ==> ('otc alterations permit', '2.0', 'wood frame (5)', '8') , confidence = 0.601 , Lift = 1.517
+Rule: ('wood frame (5)',) ==> ('complete',) , confidence = 0.601 , Lift = 1.231
+Rule: ('wood frame (5)',) ==> ('5.0', 'complete') , confidence = 0.601 , Lift = 1.648
+Rule: ('5.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.601 , Lift = 1.231
+Rule: ('5.0', '8', 'St') ==> ('complete',) , confidence = 0.601 , Lift = 1.232
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('complete',) , confidence = 0.601 , Lift = 1.232
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('8', 'complete') , confidence = 0.601 , Lift = 1.322
+Rule: ('5.0', '8', 'St') ==> ('otc alterations permit', 'complete') , confidence = 0.601 , Lift = 1.322
+Rule: ('5.0', 'otc alterations permit', '8', 'St') ==> ('complete',) , confidence = 0.601 , Lift = 1.232
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('5.0', '8', '2.0', 'complete') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete') ==> ('8', 'St') , confidence = 0.602 , Lift = 0.963
+Rule: ('5.0', '8', '2.0', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.602 , Lift = 0.963
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete', '8') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('5.0', 'St') , confidence = 0.602 , Lift = 1.517
+Rule: ('5.0', '8', '2.0', 'wood frame (5)') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0', 'St') , confidence = 0.602 , Lift = 1.517
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('8', 'St') , confidence = 0.602 , Lift = 0.963
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('otc alterations permit', 'St') , confidence = 0.602 , Lift = 0.963
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0', '8', 'St') , confidence = 0.602 , Lift = 1.716
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', 'St') , confidence = 0.602 , Lift = 1.716
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('8', 'St') , confidence = 0.602 , Lift = 0.963
+Rule: ('5.0', '8', '2.0', 'wood frame (5)') ==> ('otc alterations permit', 'St') , confidence = 0.602 , Lift = 0.963
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('5.0', 'St') , confidence = 0.602 , Lift = 1.517
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('St',) , confidence = 0.602 , Lift = 0.866
+Rule: ('8', '3.0', 'St') ==> ('5.0',) , confidence = 0.603 , Lift = 0.957
+Rule: ('otc alterations permit', '3.0', 'St') ==> ('5.0',) , confidence = 0.603 , Lift = 0.957
+Rule: ('otc alterations permit', '3.0', 'St') ==> ('5.0', '8') , confidence = 0.603 , Lift = 1.079
+Rule: ('8', '3.0', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.603 , Lift = 1.079
+Rule: ('otc alterations permit', '8', '3.0', 'St') ==> ('5.0',) , confidence = 0.603 , Lift = 0.957
+Rule: ('otc alterations permit', '0.0') ==> ('St',) , confidence = 0.604 , Lift = 0.869
+Rule: ('0.0', '8') ==> ('St',) , confidence = 0.604 , Lift = 0.869
+Rule: ('8', '0.0') ==> ('otc alterations permit', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('otc alterations permit', '0.0') ==> ('8', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('0.0', '8', 'otc alterations permit') ==> ('St',) , confidence = 0.604 , Lift = 0.869
+Rule: ('wood frame (5)', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('wood frame (5)', '3.0') ==> ('8', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', '8', 'St') , confidence = 0.604 , Lift = 1.722
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('8', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', 'otc alterations permit', 'St') , confidence = 0.604 , Lift = 1.722
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('wood frame (5)', '3.0') ==> ('otc alterations permit', '8', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', 'otc alterations permit', '8', 'St') , confidence = 0.604 , Lift = 1.722
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('otc alterations permit', '8', 'St') , confidence = 0.604 , Lift = 0.966
+Rule: ('St',) ==> ('otc alterations permit', '2.0') , confidence = 0.605 , Lift = 0.995
+Rule: ('St',) ==> ('8', '2.0') , confidence = 0.605 , Lift = 0.995
+Rule: ('St',) ==> ('8', '2.0', 'otc alterations permit') , confidence = 0.605 , Lift = 0.995
+Rule: ('0.0',) ==> ('St',) , confidence = 0.606 , Lift = 0.871
+Rule: ('2.0', 'St') ==> ('5.0',) , confidence = 0.606 , Lift = 0.963
+Rule: ('5.0', '2.0', 'complete') ==> ('St',) , confidence = 0.607 , Lift = 0.872
+Rule: ('2.0', 'wood frame (5)') ==> ('St',) , confidence = 0.607 , Lift = 0.873
+Rule: ('2.0', 'wood frame (5)') ==> ('5.0', 'St') , confidence = 0.607 , Lift = 1.528
+Rule: ('5.0', '2.0', 'wood frame (5)') ==> ('St',) , confidence = 0.607 , Lift = 0.873
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('St',) , confidence = 0.608 , Lift = 0.874
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('St',) , confidence = 0.608 , Lift = 0.874
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('8', 'St') , confidence = 0.608 , Lift = 0.972
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.608 , Lift = 0.972
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('St',) , confidence = 0.608 , Lift = 0.874
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('5.0', 'St') , confidence = 0.608 , Lift = 1.530
+Rule: ('5.0', '8', 'wood frame (5)', 'complete') ==> ('St',) , confidence = 0.608 , Lift = 0.874
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('5.0', 'St') , confidence = 0.608 , Lift = 1.530
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') ==> ('St',) , confidence = 0.608 , Lift = 0.874
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('5.0', '8', 'St') , confidence = 0.608 , Lift = 1.731
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', 'St') , confidence = 0.608 , Lift = 1.731
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') ==> ('8', 'St') , confidence = 0.608 , Lift = 0.972
+Rule: ('5.0', '8', 'wood frame (5)', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.608 , Lift = 0.972
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('5.0', 'St') , confidence = 0.608 , Lift = 1.530
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('St',) , confidence = 0.608 , Lift = 0.874
+Rule: ('0.0',) ==> ('8', 'wood frame (5)', 'complete') , confidence = 0.609 , Lift = 1.849
+Rule: ('0.0',) ==> ('otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.609 , Lift = 1.849
+Rule: ('0.0',) ==> ('otc alterations permit', 'wood frame (5)', 'complete', '8') , confidence = 0.609 , Lift = 1.849
+Rule: ('0.0',) ==> ('5.0', '8', 'wood frame (5)', 'complete') , confidence = 0.609 , Lift = 1.849
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.609 , Lift = 1.849
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete', '8') , confidence = 0.609 , Lift = 1.849
+Rule: ('5.0', '3.0') ==> ('8', 'St') , confidence = 0.610 , Lift = 0.976
+Rule: ('5.0', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.610 , Lift = 0.976
+Rule: ('5.0', '3.0') ==> ('otc alterations permit', '8', 'St') , confidence = 0.610 , Lift = 0.976
+Rule: ('3.0', 'St') ==> ('5.0',) , confidence = 0.611 , Lift = 0.970
+Rule: ('5.0', '8', '2.0') ==> ('St',) , confidence = 0.611 , Lift = 0.878
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('St',) , confidence = 0.611 , Lift = 0.878
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('8', 'St') , confidence = 0.611 , Lift = 0.976
+Rule: ('5.0', '8', '2.0') ==> ('otc alterations permit', 'St') , confidence = 0.611 , Lift = 0.976
+Rule: ('5.0', 'otc alterations permit', '2.0', '8') ==> ('St',) , confidence = 0.611 , Lift = 0.878
+Rule: ('wood frame (5)', 'complete') ==> ('St',) , confidence = 0.611 , Lift = 0.878
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', 'St') , confidence = 0.611 , Lift = 1.538
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('St',) , confidence = 0.611 , Lift = 0.878
+Rule: ('0.0',) ==> ('wood frame (5)', 'complete') , confidence = 0.612 , Lift = 1.748
+Rule: ('0.0',) ==> ('5.0', 'wood frame (5)', 'complete') , confidence = 0.612 , Lift = 1.748
+Rule: ('8', 'wood frame (5)') ==> ('St',) , confidence = 0.612 , Lift = 0.880
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('St',) , confidence = 0.612 , Lift = 0.880
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', 'St') , confidence = 0.612 , Lift = 1.540
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('St',) , confidence = 0.612 , Lift = 0.880
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('8', 'St') , confidence = 0.612 , Lift = 0.978
+Rule: ('8', 'wood frame (5)') ==> ('otc alterations permit', 'St') , confidence = 0.612 , Lift = 0.978
+Rule: ('otc alterations permit', 'wood frame (5)', '8') ==> ('St',) , confidence = 0.612 , Lift = 0.880
+Rule: ('8', 'wood frame (5)') ==> ('5.0', 'St') , confidence = 0.612 , Lift = 1.540
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('St',) , confidence = 0.612 , Lift = 0.880
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', '8', 'St') , confidence = 0.612 , Lift = 1.743
+Rule: ('8', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', 'St') , confidence = 0.612 , Lift = 1.743
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('8', 'St') , confidence = 0.612 , Lift = 0.978
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('otc alterations permit', 'St') , confidence = 0.612 , Lift = 0.978
+Rule: ('otc alterations permit', 'wood frame (5)', '8') ==> ('5.0', 'St') , confidence = 0.612 , Lift = 1.540
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '8') ==> ('St',) , confidence = 0.612 , Lift = 0.880
+Rule: ('5.0', '8') ==> ('complete',) , confidence = 0.614 , Lift = 1.257
+Rule: ('5.0', 'otc alterations permit') ==> ('complete',) , confidence = 0.614 , Lift = 1.257
+Rule: ('5.0', 'otc alterations permit') ==> ('8', 'complete') , confidence = 0.614 , Lift = 1.350
+Rule: ('5.0', '8') ==> ('otc alterations permit', 'complete') , confidence = 0.614 , Lift = 1.350
+Rule: ('5.0', 'otc alterations permit', '8') ==> ('complete',) , confidence = 0.614 , Lift = 1.257
+Rule: ('wood frame (5)',) ==> ('St',) , confidence = 0.615 , Lift = 0.884
+Rule: ('wood frame (5)',) ==> ('5.0', 'St') , confidence = 0.615 , Lift = 1.548
+Rule: ('5.0', 'wood frame (5)') ==> ('St',) , confidence = 0.615 , Lift = 0.884
+Rule: ('0.0', '8') ==> ('wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.757
+Rule: ('otc alterations permit', '0.0') ==> ('wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.757
+Rule: ('0.0', 'otc alterations permit') ==> ('8', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.868
+Rule: ('0.0', '8') ==> ('otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.868
+Rule: ('0.0', '8', 'otc alterations permit') ==> ('wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.757
+Rule: ('0.0', '8') ==> ('5.0', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.757
+Rule: ('otc alterations permit', '0.0') ==> ('5.0', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.757
+Rule: ('0.0', 'otc alterations permit') ==> ('5.0', '8', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.868
+Rule: ('0.0', '8') ==> ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.868
+Rule: ('0.0', '8', 'otc alterations permit') ==> ('5.0', 'wood frame (5)', 'complete') , confidence = 0.615 , Lift = 1.757
+Rule: ('5.0', '2.0') ==> ('St',) , confidence = 0.615 , Lift = 0.885
+Rule: ('5.0', '8', 'complete') ==> ('St',) , confidence = 0.616 , Lift = 0.886
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('St',) , confidence = 0.616 , Lift = 0.886
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('8', 'St') , confidence = 0.616 , Lift = 0.985
+Rule: ('5.0', '8', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.616 , Lift = 0.985
+Rule: ('5.0', 'otc alterations permit', 'complete', '8') ==> ('St',) , confidence = 0.616 , Lift = 0.886
+Rule: ('5.0', 'otc alterations permit', '2.0', 'St') ==> ('complete',) , confidence = 0.617 , Lift = 1.263
+Rule: ('5.0', '8', '2.0', 'St') ==> ('complete',) , confidence = 0.617 , Lift = 1.263
+Rule: ('5.0', 'otc alterations permit', '2.0', 'St') ==> ('8', 'complete') , confidence = 0.617 , Lift = 1.356
+Rule: ('5.0', '8', '2.0', 'St') ==> ('otc alterations permit', 'complete') , confidence = 0.617 , Lift = 1.356
+Rule: ('5.0', 'otc alterations permit', '2.0', '8', 'St') ==> ('complete',) , confidence = 0.617 , Lift = 1.263
+Rule: ('5.0', 'complete') ==> ('St',) , confidence = 0.619 , Lift = 0.890
+Rule: ('0.0',) ==> ('5.0', '8', 'complete') , confidence = 0.620 , Lift = 1.810
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.620 , Lift = 1.810
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit', 'complete', '8') , confidence = 0.620 , Lift = 1.810
+Rule: ('5.0', '3.0') ==> ('2.0', 'wood frame (5)') , confidence = 0.621 , Lift = 1.343
+Rule: ('otc alterations permit',) ==> ('5.0',) , confidence = 0.621 , Lift = 0.986
+Rule: ('8',) ==> ('5.0',) , confidence = 0.621 , Lift = 0.986
+Rule: ('otc alterations permit',) ==> ('5.0', '8') , confidence = 0.621 , Lift = 1.112
+Rule: ('8',) ==> ('5.0', 'otc alterations permit') , confidence = 0.621 , Lift = 1.112
+Rule: ('otc alterations permit', '8') ==> ('5.0',) , confidence = 0.621 , Lift = 0.986
+Rule: ('0.0',) ==> ('5.0', 'complete') , confidence = 0.623 , Lift = 1.709
+Rule: ('otc alterations permit', '3.0') ==> ('wood frame (5)',) , confidence = 0.624 , Lift = 1.072
+Rule: ('8', '3.0') ==> ('wood frame (5)',) , confidence = 0.624 , Lift = 1.072
+Rule: ('8', '3.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.624 , Lift = 1.213
+Rule: ('otc alterations permit', '3.0') ==> ('8', 'wood frame (5)') , confidence = 0.624 , Lift = 1.213
+Rule: ('8', '3.0', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.624 , Lift = 1.072
+Rule: ('8', '3.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.624 , Lift = 1.072
+Rule: ('otc alterations permit', '3.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.624 , Lift = 1.072
+Rule: ('otc alterations permit', '3.0') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.624 , Lift = 1.213
+Rule: ('8', '3.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.624 , Lift = 1.213
+Rule: ('otc alterations permit', '3.0', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.624 , Lift = 1.072
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0', 'complete') , confidence = 0.625 , Lift = 1.715
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('8', 'complete') , confidence = 0.625 , Lift = 1.375
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('otc alterations permit', 'complete') , confidence = 0.625 , Lift = 1.375
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('5.0', 'complete') , confidence = 0.625 , Lift = 1.715
+Rule: ('5.0', '8', '2.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0', '8', 'complete') , confidence = 0.625 , Lift = 1.825
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.625 , Lift = 1.825
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('8', 'complete') , confidence = 0.625 , Lift = 1.375
+Rule: ('5.0', '8', '2.0', 'wood frame (5)') ==> ('otc alterations permit', 'complete') , confidence = 0.625 , Lift = 1.375
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('5.0', 'complete') , confidence = 0.625 , Lift = 1.715
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('5.0', '8', '2.0') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('8', 'complete') , confidence = 0.625 , Lift = 1.375
+Rule: ('5.0', '8', '2.0') ==> ('otc alterations permit', 'complete') , confidence = 0.625 , Lift = 1.375
+Rule: ('5.0', 'otc alterations permit', '2.0', '8') ==> ('complete',) , confidence = 0.625 , Lift = 1.281
+Rule: ('2.0', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.626 , Lift = 1.001
+Rule: ('2.0', 'complete') ==> ('8', 'St') , confidence = 0.626 , Lift = 1.001
+Rule: ('2.0', 'complete') ==> ('otc alterations permit', '8', 'St') , confidence = 0.626 , Lift = 1.001
+Rule: ('8', '0.0') ==> ('5.0', 'complete') , confidence = 0.626 , Lift = 1.718
+Rule: ('otc alterations permit', '0.0') ==> ('5.0', 'complete') , confidence = 0.626 , Lift = 1.718
+Rule: ('otc alterations permit', '0.0') ==> ('5.0', '8', 'complete') , confidence = 0.626 , Lift = 1.828
+Rule: ('0.0', '8') ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.626 , Lift = 1.828
+Rule: ('otc alterations permit', '8', '0.0') ==> ('5.0', 'complete') , confidence = 0.626 , Lift = 1.718
+Rule: ('5.0', '8') ==> ('St',) , confidence = 0.629 , Lift = 0.904
+Rule: ('5.0', 'otc alterations permit') ==> ('St',) , confidence = 0.629 , Lift = 0.904
+Rule: ('5.0', 'otc alterations permit') ==> ('8', 'St') , confidence = 0.629 , Lift = 1.005
+Rule: ('5.0', '8') ==> ('otc alterations permit', 'St') , confidence = 0.629 , Lift = 1.005
+Rule: ('5.0', 'otc alterations permit', '8') ==> ('St',) , confidence = 0.629 , Lift = 0.904
+Rule: ('5.0',) ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.629 , Lift = 1.588
+Rule: ('5.0',) ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.629 , Lift = 1.588
+Rule: ('5.0',) ==> ('otc alterations permit', '2.0', 'wood frame (5)', '8') , confidence = 0.629 , Lift = 1.588
+Rule: ('2.0', 'complete', 'St') ==> ('5.0',) , confidence = 0.630 , Lift = 1.001
+Rule: ('2.0', '3.0') ==> ('5.0',) , confidence = 0.630 , Lift = 1.001
+Rule: ('2.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.630 , Lift = 1.225
+Rule: ('2.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.630 , Lift = 1.225
+Rule: ('2.0', 'complete') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.630 , Lift = 1.225
+Rule: ('2.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.630 , Lift = 1.225
+Rule: ('2.0', 'complete') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.630 , Lift = 1.225
+Rule: ('2.0', 'complete') ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.630 , Lift = 1.225
+Rule: ('5.0',) ==> ('St',) , confidence = 0.631 , Lift = 0.907
+Rule: ('otc alterations permit', '2.0', 'complete', 'St') ==> ('5.0',) , confidence = 0.632 , Lift = 1.003
+Rule: ('8', '2.0', 'complete', 'St') ==> ('5.0',) , confidence = 0.632 , Lift = 1.003
+Rule: ('otc alterations permit', '2.0', 'complete', 'St') ==> ('5.0', '8') , confidence = 0.632 , Lift = 1.131
+Rule: ('8', '2.0', 'complete', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.632 , Lift = 1.131
+Rule: ('otc alterations permit', '8', '2.0', 'complete', 'St') ==> ('5.0',) , confidence = 0.632 , Lift = 1.003
+Rule: ('3.0',) ==> ('wood frame (5)',) , confidence = 0.632 , Lift = 1.085
+Rule: ('3.0',) ==> ('5.0', 'wood frame (5)') , confidence = 0.632 , Lift = 1.085
+Rule: ('complete', 'St') ==> ('5.0', '8') , confidence = 0.633 , Lift = 1.133
+Rule: ('complete', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.633 , Lift = 1.133
+Rule: ('complete', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.633 , Lift = 1.133
+Rule: ('5.0', 'St') ==> ('8', '2.0') , confidence = 0.634 , Lift = 1.043
+Rule: ('5.0', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.634 , Lift = 1.043
+Rule: ('5.0', 'St') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.634 , Lift = 1.043
+Rule: ('complete',) ==> ('otc alterations permit', 'St') , confidence = 0.635 , Lift = 1.015
+Rule: ('complete',) ==> ('8', 'St') , confidence = 0.635 , Lift = 1.015
+Rule: ('complete',) ==> ('8', 'St', 'otc alterations permit') , confidence = 0.635 , Lift = 1.015
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('complete',) , confidence = 0.635 , Lift = 1.302
+Rule: ('8', 'wood frame (5)', 'St') ==> ('complete',) , confidence = 0.635 , Lift = 1.302
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('8', 'complete') , confidence = 0.635 , Lift = 1.398
+Rule: ('8', 'wood frame (5)', 'St') ==> ('otc alterations permit', 'complete') , confidence = 0.635 , Lift = 1.398
+Rule: ('otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('complete',) , confidence = 0.635 , Lift = 1.302
+Rule: ('8', 'wood frame (5)', 'St') ==> ('5.0', 'complete') , confidence = 0.635 , Lift = 1.743
+Rule: ('5.0', '8', 'wood frame (5)', 'St') ==> ('complete',) , confidence = 0.635 , Lift = 1.302
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0', 'complete') , confidence = 0.635 , Lift = 1.743
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('complete',) , confidence = 0.635 , Lift = 1.302
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0', '8', 'complete') , confidence = 0.635 , Lift = 1.855
+Rule: ('8', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.635 , Lift = 1.855
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('8', 'complete') , confidence = 0.635 , Lift = 1.398
+Rule: ('5.0', '8', 'wood frame (5)', 'St') ==> ('otc alterations permit', 'complete') , confidence = 0.635 , Lift = 1.398
+Rule: ('otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('5.0', 'complete') , confidence = 0.635 , Lift = 1.743
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('complete',) , confidence = 0.635 , Lift = 1.302
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('complete',) , confidence = 0.640 , Lift = 1.311
+Rule: ('8', 'wood frame (5)') ==> ('complete',) , confidence = 0.640 , Lift = 1.311
+Rule: ('8', 'wood frame (5)') ==> ('5.0', 'complete') , confidence = 0.640 , Lift = 1.755
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('complete',) , confidence = 0.640 , Lift = 1.311
+Rule: ('8', 'wood frame (5)') ==> ('otc alterations permit', 'complete') , confidence = 0.640 , Lift = 1.407
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('8', 'complete') , confidence = 0.640 , Lift = 1.407
+Rule: ('8', 'wood frame (5)', 'otc alterations permit') ==> ('complete',) , confidence = 0.640 , Lift = 1.311
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', 'complete') , confidence = 0.640 , Lift = 1.755
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('complete',) , confidence = 0.640 , Lift = 1.311
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', '8', 'complete') , confidence = 0.640 , Lift = 1.867
+Rule: ('8', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.640 , Lift = 1.867
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('8', 'complete') , confidence = 0.640 , Lift = 1.407
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('otc alterations permit', 'complete') , confidence = 0.640 , Lift = 1.407
+Rule: ('otc alterations permit', 'wood frame (5)', '8') ==> ('5.0', 'complete') , confidence = 0.640 , Lift = 1.755
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '8') ==> ('complete',) , confidence = 0.640 , Lift = 1.311
+Rule: ('complete', 'St') ==> ('wood frame (5)',) , confidence = 0.640 , Lift = 1.100
+Rule: ('complete', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.640 , Lift = 1.100
+Rule: ('2.0', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.641 , Lift = 1.025
+Rule: ('2.0', '3.0') ==> ('8', 'St') , confidence = 0.641 , Lift = 1.025
+Rule: ('2.0', '3.0') ==> ('otc alterations permit', '8', 'St') , confidence = 0.641 , Lift = 1.025
+Rule: ('otc alterations permit', '3.0') ==> ('2.0',) , confidence = 0.643 , Lift = 0.909
+Rule: ('8', '3.0') ==> ('2.0',) , confidence = 0.643 , Lift = 0.909
+Rule: ('8', '3.0') ==> ('otc alterations permit', '2.0') , confidence = 0.643 , Lift = 1.057
+Rule: ('otc alterations permit', '3.0') ==> ('8', '2.0') , confidence = 0.643 , Lift = 1.057
+Rule: ('8', '3.0', 'otc alterations permit') ==> ('2.0',) , confidence = 0.643 , Lift = 0.909
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.646 , Lift = 1.109
+Rule: ('8', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.646 , Lift = 1.109
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.646 , Lift = 1.255
+Rule: ('8', 'complete', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.646 , Lift = 1.255
+Rule: ('otc alterations permit', '8', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.646 , Lift = 1.109
+Rule: ('8', 'complete', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.646 , Lift = 1.109
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.646 , Lift = 1.109
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.646 , Lift = 1.255
+Rule: ('8', 'complete', 'St') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.646 , Lift = 1.255
+Rule: ('otc alterations permit', '8', 'complete', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.646 , Lift = 1.109
+Rule: ('wood frame (5)', '3.0') ==> ('2.0',) , confidence = 0.648 , Lift = 0.916
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', '2.0') , confidence = 0.648 , Lift = 1.343
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('2.0',) , confidence = 0.648 , Lift = 0.916
+Rule: ('8', '3.0') ==> ('5.0',) , confidence = 0.651 , Lift = 1.034
+Rule: ('otc alterations permit', '3.0') ==> ('5.0',) , confidence = 0.651 , Lift = 1.034
+Rule: ('8', '3.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.651 , Lift = 1.166
+Rule: ('otc alterations permit', '3.0') ==> ('5.0', '8') , confidence = 0.651 , Lift = 1.166
+Rule: ('8', '3.0', 'otc alterations permit') ==> ('5.0',) , confidence = 0.651 , Lift = 1.034
+Rule: ('otc alterations permit', '2.0') ==> ('wood frame (5)',) , confidence = 0.651 , Lift = 1.118
+Rule: ('8', '2.0') ==> ('wood frame (5)',) , confidence = 0.651 , Lift = 1.118
+Rule: ('8', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.651 , Lift = 1.266
+Rule: ('otc alterations permit', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.651 , Lift = 1.266
+Rule: ('8', '2.0', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.651 , Lift = 1.118
+Rule: ('8', '2.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.651 , Lift = 1.118
+Rule: ('otc alterations permit', '2.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.651 , Lift = 1.118
+Rule: ('otc alterations permit', '2.0') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.651 , Lift = 1.266
+Rule: ('8', '2.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.651 , Lift = 1.266
+Rule: ('otc alterations permit', '2.0', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.651 , Lift = 1.118
+Rule: ('2.0',) ==> ('wood frame (5)',) , confidence = 0.654 , Lift = 1.123
+Rule: ('2.0',) ==> ('5.0', 'wood frame (5)') , confidence = 0.654 , Lift = 1.123
+Rule: ('5.0', '3.0') ==> ('2.0',) , confidence = 0.654 , Lift = 0.926
+Rule: ('5.0',) ==> ('otc alterations permit', '2.0') , confidence = 0.655 , Lift = 1.077
+Rule: ('5.0',) ==> ('8', '2.0') , confidence = 0.655 , Lift = 1.077
+Rule: ('5.0',) ==> ('8', '2.0', 'otc alterations permit') , confidence = 0.655 , Lift = 1.077
+Rule: ('2.0', 'complete') ==> ('5.0', '8') , confidence = 0.657 , Lift = 1.176
+Rule: ('2.0', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.657 , Lift = 1.176
+Rule: ('2.0', 'complete') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.657 , Lift = 1.176
+Rule: ('issued',) ==> ('8', 'St') , confidence = 0.657 , Lift = 1.051
+Rule: ('issued',) ==> ('otc alterations permit', 'St') , confidence = 0.657 , Lift = 1.051
+Rule: ('issued',) ==> ('otc alterations permit', 'St', '8') , confidence = 0.657 , Lift = 1.051
+Rule: ('otc alterations permit', '3.0', 'St') ==> ('2.0',) , confidence = 0.657 , Lift = 0.930
+Rule: ('8', '3.0', 'St') ==> ('2.0',) , confidence = 0.657 , Lift = 0.930
+Rule: ('otc alterations permit', '3.0', 'St') ==> ('8', '2.0') , confidence = 0.657 , Lift = 1.081
+Rule: ('8', '3.0', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.657 , Lift = 1.081
+Rule: ('otc alterations permit', '8', '3.0', 'St') ==> ('2.0',) , confidence = 0.657 , Lift = 0.930
+Rule: ('3.0',) ==> ('5.0',) , confidence = 0.659 , Lift = 1.047
+Rule: ('5.0', '0.0') ==> ('8', 'wood frame (5)', 'complete') , confidence = 0.661 , Lift = 2.007
+Rule: ('5.0', '0.0') ==> ('otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.661 , Lift = 2.007
+Rule: ('5.0', '0.0') ==> ('otc alterations permit', 'wood frame (5)', 'complete', '8') , confidence = 0.661 , Lift = 2.007
+Rule: ('5.0', '0.0') ==> ('wood frame (5)', 'complete') , confidence = 0.664 , Lift = 1.898
+Rule: ('5.0', '3.0') ==> ('wood frame (5)', 'St') , confidence = 0.665 , Lift = 1.857
+Rule: ('1.0',) ==> ('otc alterations permit', '2.0') , confidence = 0.665 , Lift = 1.093
+Rule: ('1.0',) ==> ('8', '2.0') , confidence = 0.665 , Lift = 1.093
+Rule: ('1.0',) ==> ('8', '2.0', 'otc alterations permit') , confidence = 0.665 , Lift = 1.093
+Rule: ('5.0', '0.0', '8') ==> ('wood frame (5)', 'complete') , confidence = 0.666 , Lift = 1.904
+Rule: ('5.0', 'otc alterations permit', '0.0') ==> ('wood frame (5)', 'complete') , confidence = 0.666 , Lift = 1.904
+Rule: ('5.0', '0.0', 'otc alterations permit') ==> ('8', 'wood frame (5)', 'complete') , confidence = 0.666 , Lift = 2.024
+Rule: ('5.0', '0.0', '8') ==> ('otc alterations permit', 'wood frame (5)', 'complete') , confidence = 0.666 , Lift = 2.024
+Rule: ('5.0', '0.0', '8', 'otc alterations permit') ==> ('wood frame (5)', 'complete') , confidence = 0.666 , Lift = 1.904
+Rule: ('wood frame (5)', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.666 , Lift = 1.096
+Rule: ('wood frame (5)', 'St') ==> ('8', '2.0') , confidence = 0.666 , Lift = 1.096
+Rule: ('wood frame (5)', 'St') ==> ('5.0', '8', '2.0') , confidence = 0.666 , Lift = 1.616
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('8', '2.0') , confidence = 0.666 , Lift = 1.096
+Rule: ('wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.666 , Lift = 1.616
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.666 , Lift = 1.096
+Rule: ('wood frame (5)', 'St') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.666 , Lift = 1.096
+Rule: ('wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', '2.0', '8') , confidence = 0.666 , Lift = 1.616
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.666 , Lift = 1.096
+Rule: ('3.0',) ==> ('otc alterations permit', 'St') , confidence = 0.668 , Lift = 1.068
+Rule: ('3.0',) ==> ('8', 'St') , confidence = 0.668 , Lift = 1.068
+Rule: ('3.0',) ==> ('8', 'St', 'otc alterations permit') , confidence = 0.668 , Lift = 1.068
+Rule: ('0.0',) ==> ('otc alterations permit', 'complete') , confidence = 0.668 , Lift = 1.470
+Rule: ('0.0',) ==> ('8', 'complete') , confidence = 0.668 , Lift = 1.470
+Rule: ('0.0',) ==> ('otc alterations permit', 'complete', '8') , confidence = 0.668 , Lift = 1.470
+Rule: ('5.0', '8', '3.0') ==> ('wood frame (5)', 'St') , confidence = 0.671 , Lift = 1.875
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('wood frame (5)', 'St') , confidence = 0.671 , Lift = 1.875
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('8', 'wood frame (5)', 'St') , confidence = 0.671 , Lift = 2.133
+Rule: ('5.0', '8', '3.0') ==> ('otc alterations permit', 'wood frame (5)', 'St') , confidence = 0.671 , Lift = 2.133
+Rule: ('5.0', 'otc alterations permit', '3.0', '8') ==> ('wood frame (5)', 'St') , confidence = 0.671 , Lift = 1.875
+Rule: ('0.0',) ==> ('complete',) , confidence = 0.672 , Lift = 1.378
+Rule: ('otc alterations permit', '1.0') ==> ('St',) , confidence = 0.673 , Lift = 0.967
+Rule: ('8', '1.0') ==> ('St',) , confidence = 0.673 , Lift = 0.967
+Rule: ('8', '1.0') ==> ('otc alterations permit', 'St') , confidence = 0.673 , Lift = 1.075
+Rule: ('otc alterations permit', '1.0') ==> ('8', 'St') , confidence = 0.673 , Lift = 1.075
+Rule: ('8', '1.0', 'otc alterations permit') ==> ('St',) , confidence = 0.673 , Lift = 0.967
+Rule: ('5.0', '0.0') ==> ('8', 'complete') , confidence = 0.673 , Lift = 1.480
+Rule: ('5.0', '0.0') ==> ('otc alterations permit', 'complete') , confidence = 0.673 , Lift = 1.480
+Rule: ('5.0', '0.0') ==> ('otc alterations permit', 'complete', '8') , confidence = 0.673 , Lift = 1.480
+Rule: ('otc alterations permit', 'St') ==> ('2.0',) , confidence = 0.673 , Lift = 0.952
+Rule: ('8', 'St') ==> ('2.0',) , confidence = 0.673 , Lift = 0.952
+Rule: ('8', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.673 , Lift = 1.107
+Rule: ('otc alterations permit', 'St') ==> ('8', '2.0') , confidence = 0.673 , Lift = 1.107
+Rule: ('8', 'St', 'otc alterations permit') ==> ('2.0',) , confidence = 0.673 , Lift = 0.952
+Rule: ('0.0', 'wood frame (5)') ==> ('8', 'complete') , confidence = 0.673 , Lift = 1.481
+Rule: ('0.0', 'wood frame (5)') ==> ('otc alterations permit', 'complete') , confidence = 0.673 , Lift = 1.481
+Rule: ('0.0', 'wood frame (5)') ==> ('otc alterations permit', 'complete', '8') , confidence = 0.673 , Lift = 1.481
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', '8', 'complete') , confidence = 0.673 , Lift = 1.965
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('8', 'complete') , confidence = 0.673 , Lift = 1.481
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.673 , Lift = 1.965
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('otc alterations permit', 'complete') , confidence = 0.673 , Lift = 1.481
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', 'complete', '8') , confidence = 0.673 , Lift = 1.965
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('otc alterations permit', 'complete', '8') , confidence = 0.673 , Lift = 1.481
+Rule: ('complete',) ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.674 , Lift = 1.311
+Rule: ('complete',) ==> ('8', 'wood frame (5)') , confidence = 0.674 , Lift = 1.311
+Rule: ('complete',) ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.674 , Lift = 1.311
+Rule: ('complete',) ==> ('8', 'wood frame (5)', 'otc alterations permit') , confidence = 0.674 , Lift = 1.311
+Rule: ('complete',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.674 , Lift = 1.311
+Rule: ('complete',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.674 , Lift = 1.311
+Rule: ('0.0', 'otc alterations permit') ==> ('complete',) , confidence = 0.675 , Lift = 1.383
+Rule: ('8', '0.0') ==> ('complete',) , confidence = 0.675 , Lift = 1.383
+Rule: ('otc alterations permit', '0.0') ==> ('8', 'complete') , confidence = 0.675 , Lift = 1.485
+Rule: ('0.0', '8') ==> ('otc alterations permit', 'complete') , confidence = 0.675 , Lift = 1.485
+Rule: ('otc alterations permit', '8', '0.0') ==> ('complete',) , confidence = 0.675 , Lift = 1.383
+Rule: ('1.0',) ==> ('St',) , confidence = 0.675 , Lift = 0.971
+Rule: ('5.0', '0.0') ==> ('complete',) , confidence = 0.676 , Lift = 1.386
+Rule: ('complete', 'St') ==> ('5.0',) , confidence = 0.676 , Lift = 1.074
+Rule: ('otc alterations permit',) ==> ('2.0',) , confidence = 0.677 , Lift = 0.957
+Rule: ('8',) ==> ('2.0',) , confidence = 0.677 , Lift = 0.957
+Rule: ('otc alterations permit',) ==> ('8', '2.0') , confidence = 0.677 , Lift = 1.112
+Rule: ('8',) ==> ('otc alterations permit', '2.0') , confidence = 0.677 , Lift = 1.112
+Rule: ('otc alterations permit', '8') ==> ('2.0',) , confidence = 0.677 , Lift = 0.957
+Rule: ('0.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.677 , Lift = 1.386
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', 'complete') , confidence = 0.677 , Lift = 1.856
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('complete',) , confidence = 0.677 , Lift = 1.386
+Rule: ('otc alterations permit', '2.0') ==> ('5.0',) , confidence = 0.678 , Lift = 1.077
+Rule: ('8', '2.0') ==> ('5.0',) , confidence = 0.678 , Lift = 1.077
+Rule: ('8', '2.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.678 , Lift = 1.215
+Rule: ('otc alterations permit', '2.0') ==> ('5.0', '8') , confidence = 0.678 , Lift = 1.215
+Rule: ('8', '2.0', 'otc alterations permit') ==> ('5.0',) , confidence = 0.678 , Lift = 1.077
+Rule: ('5.0', '8', '0.0') ==> ('complete',) , confidence = 0.679 , Lift = 1.390
+Rule: ('5.0', 'otc alterations permit', '0.0') ==> ('complete',) , confidence = 0.679 , Lift = 1.390
+Rule: ('5.0', 'otc alterations permit', '0.0') ==> ('8', 'complete') , confidence = 0.679 , Lift = 1.492
+Rule: ('5.0', '0.0', '8') ==> ('otc alterations permit', 'complete') , confidence = 0.679 , Lift = 1.492
+Rule: ('5.0', 'otc alterations permit', '8', '0.0') ==> ('complete',) , confidence = 0.679 , Lift = 1.390
+Rule: ('0.0', 'wood frame (5)', '8') ==> ('complete',) , confidence = 0.679 , Lift = 1.391
+Rule: ('otc alterations permit', 'wood frame (5)', '0.0') ==> ('complete',) , confidence = 0.679 , Lift = 1.391
+Rule: ('0.0', 'wood frame (5)', 'otc alterations permit') ==> ('8', 'complete') , confidence = 0.679 , Lift = 1.493
+Rule: ('0.0', 'wood frame (5)', '8') ==> ('otc alterations permit', 'complete') , confidence = 0.679 , Lift = 1.493
+Rule: ('0.0', 'wood frame (5)', '8', 'otc alterations permit') ==> ('complete',) , confidence = 0.679 , Lift = 1.391
+Rule: ('0.0', 'wood frame (5)', '8') ==> ('5.0', 'complete') , confidence = 0.679 , Lift = 1.861
+Rule: ('5.0', '0.0', 'wood frame (5)', '8') ==> ('complete',) , confidence = 0.679 , Lift = 1.391
+Rule: ('otc alterations permit', 'wood frame (5)', '0.0') ==> ('5.0', 'complete') , confidence = 0.679 , Lift = 1.861
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '0.0') ==> ('complete',) , confidence = 0.679 , Lift = 1.391
+Rule: ('0.0', 'wood frame (5)', 'otc alterations permit') ==> ('5.0', '8', 'complete') , confidence = 0.679 , Lift = 1.981
+Rule: ('0.0', 'wood frame (5)', '8') ==> ('5.0', 'otc alterations permit', 'complete') , confidence = 0.679 , Lift = 1.981
+Rule: ('5.0', '0.0', 'wood frame (5)', 'otc alterations permit') ==> ('8', 'complete') , confidence = 0.679 , Lift = 1.493
+Rule: ('5.0', '0.0', 'wood frame (5)', '8') ==> ('otc alterations permit', 'complete') , confidence = 0.679 , Lift = 1.493
+Rule: ('0.0', 'wood frame (5)', '8', 'otc alterations permit') ==> ('5.0', 'complete') , confidence = 0.679 , Lift = 1.861
+Rule: ('5.0', '0.0', 'wood frame (5)', '8', 'otc alterations permit') ==> ('complete',) , confidence = 0.679 , Lift = 1.391
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.679 , Lift = 1.715
+Rule: ('5.0', 'complete') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.679 , Lift = 1.715
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', '2.0', 'wood frame (5)', '8') , confidence = 0.679 , Lift = 1.715
+Rule: ('5.0', '8', 'St') ==> ('2.0', 'wood frame (5)') , confidence = 0.680 , Lift = 1.470
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('2.0', 'wood frame (5)') , confidence = 0.680 , Lift = 1.470
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.680 , Lift = 1.716
+Rule: ('5.0', '8', 'St') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.680 , Lift = 1.716
+Rule: ('5.0', 'otc alterations permit', '8', 'St') ==> ('2.0', 'wood frame (5)') , confidence = 0.680 , Lift = 1.470
+Rule: ('wood frame (5)',) ==> ('otc alterations permit', '2.0') , confidence = 0.680 , Lift = 1.118
+Rule: ('wood frame (5)',) ==> ('8', '2.0') , confidence = 0.680 , Lift = 1.118
+Rule: ('wood frame (5)',) ==> ('8', '2.0', 'otc alterations permit') , confidence = 0.680 , Lift = 1.118
+Rule: ('wood frame (5)',) ==> ('5.0', '8', '2.0') , confidence = 0.680 , Lift = 1.649
+Rule: ('5.0', 'wood frame (5)') ==> ('8', '2.0') , confidence = 0.680 , Lift = 1.118
+Rule: ('wood frame (5)',) ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.680 , Lift = 1.649
+Rule: ('5.0', 'wood frame (5)') ==> ('otc alterations permit', '2.0') , confidence = 0.680 , Lift = 1.118
+Rule: ('wood frame (5)',) ==> ('5.0', 'otc alterations permit', '2.0', '8') , confidence = 0.680 , Lift = 1.649
+Rule: ('5.0', 'wood frame (5)') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.680 , Lift = 1.118
+Rule: ('8', 'complete', 'St') ==> ('5.0',) , confidence = 0.681 , Lift = 1.082
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('5.0',) , confidence = 0.681 , Lift = 1.082
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('5.0', '8') , confidence = 0.681 , Lift = 1.220
+Rule: ('8', 'complete', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.681 , Lift = 1.220
+Rule: ('otc alterations permit', '8', 'complete', 'St') ==> ('5.0',) , confidence = 0.681 , Lift = 1.082
+Rule: ('otc alterations permit', 'complete') ==> ('St',) , confidence = 0.681 , Lift = 0.980
+Rule: ('8', 'complete') ==> ('St',) , confidence = 0.681 , Lift = 0.980
+Rule: ('8', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.681 , Lift = 1.089
+Rule: ('otc alterations permit', 'complete') ==> ('8', 'St') , confidence = 0.681 , Lift = 1.089
+Rule: ('8', 'complete', 'otc alterations permit') ==> ('St',) , confidence = 0.681 , Lift = 0.980
+Rule: ('2.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.682 , Lift = 1.171
+Rule: ('2.0', 'complete') ==> ('5.0', 'wood frame (5)') , confidence = 0.682 , Lift = 1.171
+Rule: ('2.0',) ==> ('5.0',) , confidence = 0.682 , Lift = 1.083
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('St',) , confidence = 0.682 , Lift = 0.981
+Rule: ('8', '2.0', 'complete') ==> ('St',) , confidence = 0.682 , Lift = 0.981
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('8', 'St') , confidence = 0.682 , Lift = 1.091
+Rule: ('8', '2.0', 'complete') ==> ('otc alterations permit', 'St') , confidence = 0.682 , Lift = 1.091
+Rule: ('otc alterations permit', '2.0', 'complete', '8') ==> ('St',) , confidence = 0.682 , Lift = 0.981
+Rule: ('complete',) ==> ('St',) , confidence = 0.684 , Lift = 0.983
+Rule: ('2.0', 'complete') ==> ('St',) , confidence = 0.685 , Lift = 0.984
+Rule: ('3.0',) ==> ('2.0',) , confidence = 0.685 , Lift = 0.969
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.687 , Lift = 1.180
+Rule: ('8', '2.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.687 , Lift = 1.180
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('5.0', 'wood frame (5)') , confidence = 0.687 , Lift = 1.180
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.687 , Lift = 1.336
+Rule: ('8', '2.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.687 , Lift = 1.336
+Rule: ('otc alterations permit', '2.0', 'complete', '8') ==> ('wood frame (5)',) , confidence = 0.687 , Lift = 1.180
+Rule: ('8', '2.0', 'complete') ==> ('5.0', 'wood frame (5)') , confidence = 0.687 , Lift = 1.180
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.687 , Lift = 1.336
+Rule: ('8', '2.0', 'complete') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.687 , Lift = 1.336
+Rule: ('otc alterations permit', '2.0', 'complete', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.687 , Lift = 1.180
+Rule: ('5.0', 'complete', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.688 , Lift = 1.131
+Rule: ('5.0', 'complete', 'St') ==> ('8', '2.0') , confidence = 0.688 , Lift = 1.131
+Rule: ('5.0', 'complete', 'St') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.688 , Lift = 1.131
+Rule: ('complete', '3.0') ==> ('2.0',) , confidence = 0.690 , Lift = 0.976
+Rule: ('otc alterations permit', '2.0') ==> ('St',) , confidence = 0.692 , Lift = 0.995
+Rule: ('8', '2.0') ==> ('St',) , confidence = 0.692 , Lift = 0.995
+Rule: ('8', '2.0') ==> ('otc alterations permit', 'St') , confidence = 0.692 , Lift = 1.107
+Rule: ('otc alterations permit', '2.0') ==> ('8', 'St') , confidence = 0.692 , Lift = 1.107
+Rule: ('8', '2.0', 'otc alterations permit') ==> ('St',) , confidence = 0.692 , Lift = 0.995
+Rule: ('2.0',) ==> ('St',) , confidence = 0.692 , Lift = 0.995
+Rule: ('wood frame (5)', '3.0') ==> ('St',) , confidence = 0.694 , Lift = 0.998
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', 'St') , confidence = 0.694 , Lift = 1.747
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('St',) , confidence = 0.694 , Lift = 0.998
+Rule: ('3.0', 'St') ==> ('2.0',) , confidence = 0.695 , Lift = 0.983
+Rule: ('8',) ==> ('St',) , confidence = 0.696 , Lift = 1.000
+Rule: ('otc alterations permit',) ==> ('St',) , confidence = 0.696 , Lift = 1.000
+Rule: ('otc alterations permit',) ==> ('8', 'St') , confidence = 0.696 , Lift = 1.112
+Rule: ('8',) ==> ('otc alterations permit', 'St') , confidence = 0.696 , Lift = 1.112
+Rule: ('otc alterations permit', '8') ==> ('St',) , confidence = 0.696 , Lift = 1.000
+Rule: ('complete', '3.0') ==> ('5.0',) , confidence = 0.696 , Lift = 1.106
+Rule: ('complete', '3.0') ==> ('8', 'St') , confidence = 0.699 , Lift = 1.117
+Rule: ('complete', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.699 , Lift = 1.117
+Rule: ('complete', '3.0') ==> ('otc alterations permit', '8', 'St') , confidence = 0.699 , Lift = 1.117
+Rule: ('Av',) ==> ('2.0',) , confidence = 0.699 , Lift = 0.989
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('St',) , confidence = 0.700 , Lift = 1.007
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('St',) , confidence = 0.700 , Lift = 1.007
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('5.0', 'St') , confidence = 0.700 , Lift = 1.763
+Rule: ('5.0', '8', 'wood frame (5)', '3.0') ==> ('St',) , confidence = 0.700 , Lift = 1.007
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('5.0', 'St') , confidence = 0.700 , Lift = 1.763
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '3.0') ==> ('St',) , confidence = 0.700 , Lift = 1.007
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('8', 'St') , confidence = 0.700 , Lift = 1.119
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.700 , Lift = 1.119
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0', '8') ==> ('St',) , confidence = 0.700 , Lift = 1.007
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('5.0', '8', 'St') , confidence = 0.700 , Lift = 1.994
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('5.0', 'otc alterations permit', 'St') , confidence = 0.700 , Lift = 1.994
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '3.0') ==> ('8', 'St') , confidence = 0.700 , Lift = 1.119
+Rule: ('5.0', '8', 'wood frame (5)', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.700 , Lift = 1.119
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0', '8') ==> ('5.0', 'St') , confidence = 0.700 , Lift = 1.763
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '3.0', '8') ==> ('St',) , confidence = 0.700 , Lift = 1.007
+Rule: ('5.0', '3.0') ==> ('St',) , confidence = 0.701 , Lift = 1.008
+Rule: ('complete',) ==> ('5.0', '8') , confidence = 0.702 , Lift = 1.257
+Rule: ('complete',) ==> ('5.0', 'otc alterations permit') , confidence = 0.702 , Lift = 1.257
+Rule: ('complete',) ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.702 , Lift = 1.257
+Rule: ('issued', '2.0') ==> ('St',) , confidence = 0.703 , Lift = 1.011
+Rule: ('St',) ==> ('2.0',) , confidence = 0.704 , Lift = 0.995
+Rule: ('Av',) ==> ('5.0', '8') , confidence = 0.705 , Lift = 1.262
+Rule: ('Av',) ==> ('5.0', 'otc alterations permit') , confidence = 0.705 , Lift = 1.262
+Rule: ('Av',) ==> ('5.0', '8', 'otc alterations permit') , confidence = 0.705 , Lift = 1.262
+Rule: ('5.0', 'St') ==> ('2.0', 'wood frame (5)') , confidence = 0.706 , Lift = 1.528
+Rule: ('5.0', 'complete') ==> ('8', '2.0') , confidence = 0.708 , Lift = 1.163
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.708 , Lift = 1.163
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.708 , Lift = 1.163
+Rule: ('5.0', '8', '3.0') ==> ('St',) , confidence = 0.708 , Lift = 1.017
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('St',) , confidence = 0.708 , Lift = 1.017
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('8', 'St') , confidence = 0.708 , Lift = 1.131
+Rule: ('5.0', '8', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.708 , Lift = 1.131
+Rule: ('5.0', 'otc alterations permit', '3.0', '8') ==> ('St',) , confidence = 0.708 , Lift = 1.017
+Rule: ('wood frame (5)', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.708 , Lift = 1.163
+Rule: ('wood frame (5)', 'complete') ==> ('8', '2.0') , confidence = 0.708 , Lift = 1.163
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.708 , Lift = 1.716
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.708 , Lift = 1.163
+Rule: ('wood frame (5)', 'complete') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.708 , Lift = 1.163
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', '8', '2.0') , confidence = 0.708 , Lift = 1.716
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('8', '2.0') , confidence = 0.708 , Lift = 1.163
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', '2.0', '8') , confidence = 0.708 , Lift = 1.716
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.708 , Lift = 1.163
+Rule: ('5.0', '8') ==> ('2.0', 'wood frame (5)') , confidence = 0.709 , Lift = 1.535
+Rule: ('5.0', 'otc alterations permit') ==> ('2.0', 'wood frame (5)') , confidence = 0.709 , Lift = 1.535
+Rule: ('5.0', 'otc alterations permit') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.709 , Lift = 1.791
+Rule: ('5.0', '8') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.709 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', '8') ==> ('2.0', 'wood frame (5)') , confidence = 0.709 , Lift = 1.535
+Rule: ('issued',) ==> ('St',) , confidence = 0.710 , Lift = 1.020
+Rule: ('5.0', 'complete', 'St') ==> ('2.0', 'wood frame (5)') , confidence = 0.710 , Lift = 1.535
+Rule: ('2.0', 'complete') ==> ('5.0',) , confidence = 0.711 , Lift = 1.129
+Rule: ('8', 'issued') ==> ('St',) , confidence = 0.713 , Lift = 1.024
+Rule: ('otc alterations permit', 'issued') ==> ('St',) , confidence = 0.713 , Lift = 1.024
+Rule: ('otc alterations permit', 'issued') ==> ('8', 'St') , confidence = 0.713 , Lift = 1.139
+Rule: ('issued', '8') ==> ('otc alterations permit', 'St') , confidence = 0.713 , Lift = 1.139
+Rule: ('otc alterations permit', '8', 'issued') ==> ('St',) , confidence = 0.713 , Lift = 1.024
+Rule: ('8', '2.0', 'complete') ==> ('5.0',) , confidence = 0.716 , Lift = 1.137
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('5.0',) , confidence = 0.716 , Lift = 1.137
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('5.0', '8') , confidence = 0.716 , Lift = 1.282
+Rule: ('8', '2.0', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.716 , Lift = 1.282
+Rule: ('otc alterations permit', '2.0', 'complete', '8') ==> ('5.0',) , confidence = 0.716 , Lift = 1.137
+Rule: ('complete',) ==> ('wood frame (5)',) , confidence = 0.717 , Lift = 1.231
+Rule: ('complete',) ==> ('5.0', 'wood frame (5)') , confidence = 0.717 , Lift = 1.231
+Rule: ('apartments',) ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.717 , Lift = 1.394
+Rule: ('apartments',) ==> ('8', 'wood frame (5)') , confidence = 0.717 , Lift = 1.394
+Rule: ('apartments',) ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.717 , Lift = 1.394
+Rule: ('apartments',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.717 , Lift = 1.394
+Rule: ('apartments',) ==> ('8', 'wood frame (5)', 'otc alterations permit') , confidence = 0.717 , Lift = 1.394
+Rule: ('apartments',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.717 , Lift = 1.394
+Rule: ('5.0', '8', 'St') ==> ('2.0',) , confidence = 0.717 , Lift = 1.015
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('2.0',) , confidence = 0.717 , Lift = 1.015
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('8', '2.0') , confidence = 0.717 , Lift = 1.179
+Rule: ('5.0', '8', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.717 , Lift = 1.179
+Rule: ('5.0', 'otc alterations permit', '8', 'St') ==> ('2.0',) , confidence = 0.717 , Lift = 1.015
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('2.0', 'wood frame (5)') , confidence = 0.723 , Lift = 1.564
+Rule: ('5.0', '8', 'complete') ==> ('2.0', 'wood frame (5)') , confidence = 0.723 , Lift = 1.564
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.723 , Lift = 1.825
+Rule: ('5.0', '8', 'complete') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.723 , Lift = 1.825
+Rule: ('5.0', 'otc alterations permit', 'complete', '8') ==> ('2.0', 'wood frame (5)') , confidence = 0.723 , Lift = 1.564
+Rule: ('otc alterations permit', 'complete') ==> ('wood frame (5)',) , confidence = 0.724 , Lift = 1.243
+Rule: ('8', 'complete') ==> ('wood frame (5)',) , confidence = 0.724 , Lift = 1.243
+Rule: ('8', 'complete') ==> ('5.0', 'wood frame (5)') , confidence = 0.724 , Lift = 1.243
+Rule: ('8', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.724 , Lift = 1.407
+Rule: ('otc alterations permit', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.724 , Lift = 1.407
+Rule: ('8', 'complete', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.724 , Lift = 1.243
+Rule: ('otc alterations permit', 'complete') ==> ('5.0', 'wood frame (5)') , confidence = 0.724 , Lift = 1.243
+Rule: ('otc alterations permit', 'complete') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.724 , Lift = 1.407
+Rule: ('8', 'complete') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.724 , Lift = 1.407
+Rule: ('otc alterations permit', 'complete', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.724 , Lift = 1.243
+Rule: ('5.0',) ==> ('2.0', 'wood frame (5)') , confidence = 0.734 , Lift = 1.588
+Rule: ('5.0', 'complete') ==> ('2.0', 'wood frame (5)') , confidence = 0.734 , Lift = 1.589
+Rule: ('5.0', 'otc alterations permit', 'complete', 'St') ==> ('2.0',) , confidence = 0.736 , Lift = 1.041
+Rule: ('5.0', '8', 'complete', 'St') ==> ('2.0',) , confidence = 0.736 , Lift = 1.041
+Rule: ('5.0', 'otc alterations permit', 'complete', 'St') ==> ('8', '2.0') , confidence = 0.736 , Lift = 1.210
+Rule: ('5.0', '8', 'complete', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.736 , Lift = 1.210
+Rule: ('5.0', 'otc alterations permit', '8', 'complete', 'St') ==> ('2.0',) , confidence = 0.736 , Lift = 1.041
+Rule: ('complete', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.737 , Lift = 1.212
+Rule: ('complete', 'St') ==> ('8', '2.0') , confidence = 0.737 , Lift = 1.212
+Rule: ('complete', 'St') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.737 , Lift = 1.212
+Rule: ('complete',) ==> ('8', '2.0') , confidence = 0.738 , Lift = 1.214
+Rule: ('complete',) ==> ('otc alterations permit', '2.0') , confidence = 0.738 , Lift = 1.214
+Rule: ('complete',) ==> ('8', '2.0', 'otc alterations permit') , confidence = 0.738 , Lift = 1.214
+Rule: ('5.0', 'otc alterations permit') ==> ('2.0',) , confidence = 0.739 , Lift = 1.045
+Rule: ('5.0', '8') ==> ('2.0',) , confidence = 0.739 , Lift = 1.045
+Rule: ('5.0', '8') ==> ('otc alterations permit', '2.0') , confidence = 0.739 , Lift = 1.215
+Rule: ('5.0', 'otc alterations permit') ==> ('8', '2.0') , confidence = 0.739 , Lift = 1.215
+Rule: ('5.0', '8', 'otc alterations permit') ==> ('2.0',) , confidence = 0.739 , Lift = 1.045
+Rule: ('complete',) ==> ('5.0',) , confidence = 0.747 , Lift = 1.186
+Rule: ('5.0', 'St') ==> ('2.0',) , confidence = 0.747 , Lift = 1.057
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('2.0',) , confidence = 0.750 , Lift = 1.060
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('5.0', '2.0') , confidence = 0.750 , Lift = 1.554
+Rule: ('5.0', 'wood frame (5)', 'complete', 'St') ==> ('2.0',) , confidence = 0.750 , Lift = 1.060
+Rule: ('5.0', 'complete', 'St') ==> ('2.0',) , confidence = 0.751 , Lift = 1.062
+Rule: ('otc alterations permit', '1.0') ==> ('2.0',) , confidence = 0.751 , Lift = 1.062
+Rule: ('8', '1.0') ==> ('2.0',) , confidence = 0.751 , Lift = 1.062
+Rule: ('8', '1.0') ==> ('otc alterations permit', '2.0') , confidence = 0.751 , Lift = 1.234
+Rule: ('otc alterations permit', '1.0') ==> ('8', '2.0') , confidence = 0.751 , Lift = 1.234
+Rule: ('8', '1.0', 'otc alterations permit') ==> ('2.0',) , confidence = 0.751 , Lift = 1.062
+Rule: ('complete', '3.0') ==> ('St',) , confidence = 0.752 , Lift = 1.082
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('2.0',) , confidence = 0.752 , Lift = 1.064
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('2.0',) , confidence = 0.752 , Lift = 1.064
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('5.0', '2.0') , confidence = 0.752 , Lift = 1.560
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') ==> ('2.0',) , confidence = 0.752 , Lift = 1.064
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('8', '2.0') , confidence = 0.752 , Lift = 1.237
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.752 , Lift = 1.237
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('2.0',) , confidence = 0.752 , Lift = 1.064
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('5.0', '2.0') , confidence = 0.752 , Lift = 1.560
+Rule: ('5.0', '8', 'wood frame (5)', 'complete') ==> ('2.0',) , confidence = 0.752 , Lift = 1.064
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('5.0', '8', '2.0') , confidence = 0.752 , Lift = 1.824
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.752 , Lift = 1.824
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') ==> ('8', '2.0') , confidence = 0.752 , Lift = 1.237
+Rule: ('5.0', '8', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.752 , Lift = 1.237
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('5.0', '2.0') , confidence = 0.752 , Lift = 1.560
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('2.0',) , confidence = 0.752 , Lift = 1.064
+Rule: ('5.0', '8', 'complete') ==> ('2.0',) , confidence = 0.753 , Lift = 1.065
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('2.0',) , confidence = 0.753 , Lift = 1.065
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('8', '2.0') , confidence = 0.753 , Lift = 1.238
+Rule: ('5.0', '8', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.753 , Lift = 1.238
+Rule: ('5.0', 'otc alterations permit', 'complete', '8') ==> ('2.0',) , confidence = 0.753 , Lift = 1.065
+Rule: ('8', 'complete') ==> ('5.0',) , confidence = 0.754 , Lift = 1.197
+Rule: ('otc alterations permit', 'complete') ==> ('5.0',) , confidence = 0.754 , Lift = 1.197
+Rule: ('otc alterations permit', 'complete') ==> ('5.0', '8') , confidence = 0.754 , Lift = 1.350
+Rule: ('8', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.754 , Lift = 1.350
+Rule: ('otc alterations permit', 'complete', '8') ==> ('5.0',) , confidence = 0.754 , Lift = 1.197
+Rule: ('apartments',) ==> ('5.0', '8') , confidence = 0.755 , Lift = 1.352
+Rule: ('apartments',) ==> ('5.0', 'otc alterations permit') , confidence = 0.755 , Lift = 1.352
+Rule: ('apartments',) ==> ('5.0', '8', 'otc alterations permit') , confidence = 0.755 , Lift = 1.352
+Rule: ('8', 'complete', '3.0') ==> ('St',) , confidence = 0.755 , Lift = 1.085
+Rule: ('otc alterations permit', 'complete', '3.0') ==> ('St',) , confidence = 0.755 , Lift = 1.085
+Rule: ('otc alterations permit', 'complete', '3.0') ==> ('8', 'St') , confidence = 0.755 , Lift = 1.207
+Rule: ('8', 'complete', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.755 , Lift = 1.207
+Rule: ('otc alterations permit', 'complete', '3.0', '8') ==> ('St',) , confidence = 0.755 , Lift = 1.085
+Rule: ('Av',) ==> ('wood frame (5)',) , confidence = 0.756 , Lift = 1.298
+Rule: ('Av',) ==> ('5.0', 'wood frame (5)') , confidence = 0.756 , Lift = 1.298
+Rule: ('3.0',) ==> ('St',) , confidence = 0.757 , Lift = 1.089
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('2.0',) , confidence = 0.758 , Lift = 1.072
+Rule: ('8', 'wood frame (5)', 'St') ==> ('2.0',) , confidence = 0.758 , Lift = 1.072
+Rule: ('8', 'wood frame (5)', 'St') ==> ('5.0', '2.0') , confidence = 0.758 , Lift = 1.571
+Rule: ('5.0', '8', 'wood frame (5)', 'St') ==> ('2.0',) , confidence = 0.758 , Lift = 1.072
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0', '2.0') , confidence = 0.758 , Lift = 1.571
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('2.0',) , confidence = 0.758 , Lift = 1.072
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('8', '2.0') , confidence = 0.758 , Lift = 1.246
+Rule: ('8', 'wood frame (5)', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.758 , Lift = 1.246
+Rule: ('otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('2.0',) , confidence = 0.758 , Lift = 1.072
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0', '8', '2.0') , confidence = 0.758 , Lift = 1.837
+Rule: ('8', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.758 , Lift = 1.837
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('8', '2.0') , confidence = 0.758 , Lift = 1.246
+Rule: ('5.0', '8', 'wood frame (5)', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.758 , Lift = 1.246
+Rule: ('otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('5.0', '2.0') , confidence = 0.758 , Lift = 1.571
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('2.0',) , confidence = 0.758 , Lift = 1.072
+Rule: ('otc alterations permit', '3.0') ==> ('St',) , confidence = 0.764 , Lift = 1.099
+Rule: ('8', '3.0') ==> ('St',) , confidence = 0.764 , Lift = 1.099
+Rule: ('8', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.764 , Lift = 1.222
+Rule: ('otc alterations permit', '3.0') ==> ('8', 'St') , confidence = 0.764 , Lift = 1.222
+Rule: ('8', '3.0', 'otc alterations permit') ==> ('St',) , confidence = 0.764 , Lift = 1.099
+Rule: ('1 family dwelling',) ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.764 , Lift = 1.930
+Rule: ('1 family dwelling',) ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.764 , Lift = 1.930
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.764 , Lift = 1.930
+Rule: ('1 family dwelling',) ==> ('5.0', '8', '2.0', 'wood frame (5)') , confidence = 0.764 , Lift = 1.930
+Rule: ('1 family dwelling',) ==> ('otc alterations permit', '2.0', 'wood frame (5)', '8') , confidence = 0.764 , Lift = 1.930
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)', '8') , confidence = 0.764 , Lift = 1.930
+Rule: ('1 family dwelling',) ==> ('5.0', '8', '2.0') , confidence = 0.765 , Lift = 1.853
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.765 , Lift = 1.853
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', '2.0', '8') , confidence = 0.765 , Lift = 1.853
+Rule: ('wood frame (5)', 'complete') ==> ('2.0',) , confidence = 0.765 , Lift = 1.082
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', '2.0') , confidence = 0.765 , Lift = 1.587
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('2.0',) , confidence = 0.765 , Lift = 1.082
+Rule: ('5.0',) ==> ('2.0',) , confidence = 0.766 , Lift = 1.083
+Rule: ('5.0', 'complete') ==> ('2.0',) , confidence = 0.766 , Lift = 1.084
+Rule: ('1 family dwelling',) ==> ('otc alterations permit', '2.0') , confidence = 0.768 , Lift = 1.262
+Rule: ('1 family dwelling',) ==> ('8', '2.0') , confidence = 0.768 , Lift = 1.262
+Rule: ('1 family dwelling',) ==> ('8', '2.0', 'otc alterations permit') , confidence = 0.768 , Lift = 1.262
+Rule: ('2.0', '3.0') ==> ('St',) , confidence = 0.768 , Lift = 1.105
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('2.0',) , confidence = 0.770 , Lift = 1.089
+Rule: ('8', 'wood frame (5)') ==> ('2.0',) , confidence = 0.770 , Lift = 1.089
+Rule: ('8', 'wood frame (5)') ==> ('otc alterations permit', '2.0') , confidence = 0.770 , Lift = 1.266
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('8', '2.0') , confidence = 0.770 , Lift = 1.266
+Rule: ('8', 'wood frame (5)', 'otc alterations permit') ==> ('2.0',) , confidence = 0.770 , Lift = 1.089
+Rule: ('8', 'wood frame (5)') ==> ('5.0', '2.0') , confidence = 0.770 , Lift = 1.596
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('2.0',) , confidence = 0.770 , Lift = 1.089
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', '2.0') , confidence = 0.770 , Lift = 1.596
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('2.0',) , confidence = 0.770 , Lift = 1.089
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', '8', '2.0') , confidence = 0.770 , Lift = 1.866
+Rule: ('8', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.770 , Lift = 1.866
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('8', '2.0') , confidence = 0.770 , Lift = 1.266
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('otc alterations permit', '2.0') , confidence = 0.770 , Lift = 1.266
+Rule: ('otc alterations permit', 'wood frame (5)', '8') ==> ('5.0', '2.0') , confidence = 0.770 , Lift = 1.596
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '8') ==> ('2.0',) , confidence = 0.770 , Lift = 1.089
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.770 , Lift = 1.944
+Rule: ('5.0', '1 family dwelling') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.770 , Lift = 1.944
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', '2.0', 'wood frame (5)', '8') , confidence = 0.770 , Lift = 1.944
+Rule: ('5.0', '1 family dwelling') ==> ('8', '2.0') , confidence = 0.770 , Lift = 1.266
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', '2.0') , confidence = 0.770 , Lift = 1.266
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.770 , Lift = 1.266
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit', '2.0') , confidence = 0.771 , Lift = 1.267
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('8', '2.0') , confidence = 0.771 , Lift = 1.267
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.771 , Lift = 1.868
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit', '2.0') , confidence = 0.771 , Lift = 1.267
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', '8', '2.0') , confidence = 0.771 , Lift = 1.868
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('8', '2.0') , confidence = 0.771 , Lift = 1.267
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.771 , Lift = 1.267
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '2.0', '8') , confidence = 0.771 , Lift = 1.868
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit', '2.0', '8') , confidence = 0.771 , Lift = 1.267
+Rule: ('apartments',) ==> ('St',) , confidence = 0.772 , Lift = 1.110
+Rule: ('1.0',) ==> ('2.0',) , confidence = 0.775 , Lift = 1.096
+Rule: ('8', 'Av') ==> ('5.0',) , confidence = 0.778 , Lift = 1.236
+Rule: ('otc alterations permit', 'Av') ==> ('5.0',) , confidence = 0.778 , Lift = 1.236
+Rule: ('8', 'Av') ==> ('5.0', 'otc alterations permit') , confidence = 0.778 , Lift = 1.394
+Rule: ('otc alterations permit', 'Av') ==> ('5.0', '8') , confidence = 0.778 , Lift = 1.394
+Rule: ('8', 'Av', 'otc alterations permit') ==> ('5.0',) , confidence = 0.778 , Lift = 1.236
+Rule: ('otc alterations permit', '2.0', '3.0') ==> ('St',) , confidence = 0.781 , Lift = 1.123
+Rule: ('8', '2.0', '3.0') ==> ('St',) , confidence = 0.781 , Lift = 1.123
+Rule: ('otc alterations permit', '2.0', '3.0') ==> ('8', 'St') , confidence = 0.781 , Lift = 1.249
+Rule: ('8', '2.0', '3.0') ==> ('otc alterations permit', 'St') , confidence = 0.781 , Lift = 1.249
+Rule: ('otc alterations permit', '2.0', '3.0', '8') ==> ('St',) , confidence = 0.781 , Lift = 1.123
+Rule: ('wood frame (5)', 'St') ==> ('2.0',) , confidence = 0.784 , Lift = 1.109
+Rule: ('wood frame (5)', 'St') ==> ('5.0', '2.0') , confidence = 0.784 , Lift = 1.625
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('2.0',) , confidence = 0.784 , Lift = 1.109
+Rule: ('Av',) ==> ('5.0',) , confidence = 0.785 , Lift = 1.247
+Rule: ('5.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.793 , Lift = 1.540
+Rule: ('5.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.793 , Lift = 1.540
+Rule: ('5.0', 'St') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.793 , Lift = 1.540
+Rule: ('8', 'complete') ==> ('2.0',) , confidence = 0.793 , Lift = 1.121
+Rule: ('otc alterations permit', 'complete') ==> ('2.0',) , confidence = 0.793 , Lift = 1.121
+Rule: ('8', 'complete') ==> ('otc alterations permit', '2.0') , confidence = 0.793 , Lift = 1.303
+Rule: ('otc alterations permit', 'complete') ==> ('8', '2.0') , confidence = 0.793 , Lift = 1.303
+Rule: ('8', 'complete', 'otc alterations permit') ==> ('2.0',) , confidence = 0.793 , Lift = 1.121
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('2.0',) , confidence = 0.794 , Lift = 1.123
+Rule: ('8', 'complete', 'St') ==> ('2.0',) , confidence = 0.794 , Lift = 1.123
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('8', '2.0') , confidence = 0.794 , Lift = 1.305
+Rule: ('8', 'complete', 'St') ==> ('otc alterations permit', '2.0') , confidence = 0.794 , Lift = 1.305
+Rule: ('otc alterations permit', '8', 'complete', 'St') ==> ('2.0',) , confidence = 0.794 , Lift = 1.123
+Rule: ('wood frame (5)',) ==> ('2.0',) , confidence = 0.794 , Lift = 1.123
+Rule: ('wood frame (5)',) ==> ('5.0', '2.0') , confidence = 0.794 , Lift = 1.646
+Rule: ('5.0', 'wood frame (5)') ==> ('2.0',) , confidence = 0.794 , Lift = 1.123
+Rule: ('5.0', '2.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.804 , Lift = 1.563
+Rule: ('5.0', '2.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.804 , Lift = 1.563
+Rule: ('5.0', '2.0', 'St') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.804 , Lift = 1.563
+Rule: ('complete',) ==> ('2.0',) , confidence = 0.805 , Lift = 1.138
+Rule: ('complete', 'St') ==> ('2.0',) , confidence = 0.806 , Lift = 1.140
+Rule: ('5.0',) ==> ('8', 'wood frame (5)') , confidence = 0.817 , Lift = 1.588
+Rule: ('5.0',) ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.817 , Lift = 1.588
+Rule: ('5.0',) ==> ('8', 'wood frame (5)', 'otc alterations permit') , confidence = 0.817 , Lift = 1.588
+Rule: ('2.0', '3.0') ==> ('otc alterations permit',) , confidence = 0.820 , Lift = 0.912
+Rule: ('2.0', '3.0') ==> ('8',) , confidence = 0.820 , Lift = 0.912
+Rule: ('2.0', '3.0') ==> ('8', 'otc alterations permit') , confidence = 0.820 , Lift = 0.912
+Rule: ('5.0', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.821 , Lift = 1.596
+Rule: ('5.0', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.821 , Lift = 1.596
+Rule: ('5.0', '2.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.821 , Lift = 1.596
+Rule: ('5.0', '3.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.826 , Lift = 1.605
+Rule: ('5.0', '3.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.826 , Lift = 1.605
+Rule: ('5.0', '3.0', 'St') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.826 , Lift = 1.605
+Rule: ('apartments',) ==> ('wood frame (5)',) , confidence = 0.826 , Lift = 1.419
+Rule: ('apartments',) ==> ('5.0', 'wood frame (5)') , confidence = 0.826 , Lift = 1.419
+Rule: ('otc alterations permit', 'apartments') ==> ('wood frame (5)',) , confidence = 0.826 , Lift = 1.419
+Rule: ('8', 'apartments') ==> ('wood frame (5)',) , confidence = 0.826 , Lift = 1.419
+Rule: ('8', 'apartments') ==> ('5.0', 'wood frame (5)') , confidence = 0.826 , Lift = 1.419
+Rule: ('otc alterations permit', 'apartments') ==> ('5.0', 'wood frame (5)') , confidence = 0.826 , Lift = 1.419
+Rule: ('8', 'apartments') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.826 , Lift = 1.605
+Rule: ('otc alterations permit', 'apartments') ==> ('8', 'wood frame (5)') , confidence = 0.826 , Lift = 1.605
+Rule: ('otc alterations permit', '8', 'apartments') ==> ('wood frame (5)',) , confidence = 0.826 , Lift = 1.419
+Rule: ('otc alterations permit', 'apartments') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.826 , Lift = 1.605
+Rule: ('8', 'apartments') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.826 , Lift = 1.605
+Rule: ('otc alterations permit', '8', 'apartments') ==> ('5.0', 'wood frame (5)') , confidence = 0.826 , Lift = 1.419
+Rule: ('5.0', 'apartments') ==> ('8', 'wood frame (5)') , confidence = 0.826 , Lift = 1.606
+Rule: ('5.0', 'apartments') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.826 , Lift = 1.606
+Rule: ('5.0', 'apartments') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.826 , Lift = 1.606
+Rule: ('5.0', '3.0') ==> ('8', 'wood frame (5)') , confidence = 0.827 , Lift = 1.607
+Rule: ('5.0', '3.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.827 , Lift = 1.607
+Rule: ('5.0', '3.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.827 , Lift = 1.607
+Rule: ('2.0', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 0.834 , Lift = 0.928
+Rule: ('2.0', '3.0', 'St') ==> ('8',) , confidence = 0.834 , Lift = 0.928
+Rule: ('2.0', '3.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.834 , Lift = 0.928
+Rule: ('5.0', '2.0', 'St') ==> ('8',) , confidence = 0.849 , Lift = 0.944
+Rule: ('5.0', '2.0', 'St') ==> ('otc alterations permit',) , confidence = 0.849 , Lift = 0.944
+Rule: ('5.0', '2.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.849 , Lift = 0.944
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 1.836
+Rule: ('1 family dwelling', '8') ==> ('2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 1.836
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 1.836
+Rule: ('1 family dwelling', '8') ==> ('5.0', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 1.836
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 2.144
+Rule: ('1 family dwelling', '8') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 2.144
+Rule: ('1 family dwelling', 'otc alterations permit', '8') ==> ('2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 1.836
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', '8', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 2.144
+Rule: ('1 family dwelling', '8') ==> ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 2.144
+Rule: ('1 family dwelling', 'otc alterations permit', '8') ==> ('5.0', '2.0', 'wood frame (5)') , confidence = 0.849 , Lift = 1.836
+Rule: ('5.0', 'issued') ==> ('wood frame (5)',) , confidence = 0.849 , Lift = 1.459
+Rule: ('1 family dwelling', '8') ==> ('5.0', '2.0') , confidence = 0.849 , Lift = 1.761
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', '2.0') , confidence = 0.849 , Lift = 1.761
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', '8', '2.0') , confidence = 0.849 , Lift = 2.059
+Rule: ('1 family dwelling', '8') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.849 , Lift = 2.059
+Rule: ('1 family dwelling', 'otc alterations permit', '8') ==> ('5.0', '2.0') , confidence = 0.849 , Lift = 1.761
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 0.850 , Lift = 0.946
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 0.850 , Lift = 0.946
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('5.0', '8') , confidence = 0.850 , Lift = 1.523
+Rule: ('5.0', '2.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 0.850 , Lift = 0.946
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.850 , Lift = 1.523
+Rule: ('5.0', '2.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 0.850 , Lift = 0.946
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '8') , confidence = 0.850 , Lift = 0.946
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.850 , Lift = 1.523
+Rule: ('5.0', '2.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '8') , confidence = 0.850 , Lift = 0.946
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('2.0',) , confidence = 0.853 , Lift = 1.206
+Rule: ('1 family dwelling', '8') ==> ('2.0',) , confidence = 0.853 , Lift = 1.206
+Rule: ('1 family dwelling', '8') ==> ('otc alterations permit', '2.0') , confidence = 0.853 , Lift = 1.402
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('8', '2.0') , confidence = 0.853 , Lift = 1.402
+Rule: ('1 family dwelling', '8', 'otc alterations permit') ==> ('2.0',) , confidence = 0.853 , Lift = 1.206
+Rule: ('5.0', '2.0') ==> ('otc alterations permit',) , confidence = 0.855 , Lift = 0.951
+Rule: ('5.0', '2.0') ==> ('8',) , confidence = 0.855 , Lift = 0.951
+Rule: ('5.0', '2.0') ==> ('8', 'otc alterations permit') , confidence = 0.855 , Lift = 0.951
+Rule: ('5.0', '1 family dwelling', 'otc alterations permit') ==> ('2.0', 'wood frame (5)') , confidence = 0.856 , Lift = 1.851
+Rule: ('5.0', '1 family dwelling', '8') ==> ('2.0', 'wood frame (5)') , confidence = 0.856 , Lift = 1.851
+Rule: ('5.0', '1 family dwelling', 'otc alterations permit') ==> ('8', '2.0', 'wood frame (5)') , confidence = 0.856 , Lift = 2.160
+Rule: ('5.0', '1 family dwelling', '8') ==> ('otc alterations permit', '2.0', 'wood frame (5)') , confidence = 0.856 , Lift = 2.160
+Rule: ('5.0', '1 family dwelling', '8', 'otc alterations permit') ==> ('2.0', 'wood frame (5)') , confidence = 0.856 , Lift = 1.851
+Rule: ('5.0', '1 family dwelling', '8') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('5.0', '1 family dwelling', 'otc alterations permit') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('5.0', '1 family dwelling', 'otc alterations permit') ==> ('8', '2.0') , confidence = 0.856 , Lift = 1.407
+Rule: ('5.0', '1 family dwelling', '8') ==> ('otc alterations permit', '2.0') , confidence = 0.856 , Lift = 1.407
+Rule: ('5.0', '1 family dwelling', '8', 'otc alterations permit') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('5.0', '2.0') , confidence = 0.856 , Lift = 1.775
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', 'otc alterations permit') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('5.0', '2.0') , confidence = 0.856 , Lift = 1.775
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', '8') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('8', '2.0') , confidence = 0.856 , Lift = 1.407
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('otc alterations permit', '2.0') , confidence = 0.856 , Lift = 1.407
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)', '8') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('5.0', '8', '2.0') , confidence = 0.856 , Lift = 2.075
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '2.0') , confidence = 0.856 , Lift = 2.075
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', 'otc alterations permit') ==> ('8', '2.0') , confidence = 0.856 , Lift = 1.407
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', '8') ==> ('otc alterations permit', '2.0') , confidence = 0.856 , Lift = 1.407
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)', '8') ==> ('5.0', '2.0') , confidence = 0.856 , Lift = 1.775
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', '8', 'otc alterations permit') ==> ('2.0',) , confidence = 0.856 , Lift = 1.211
+Rule: ('2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.857 , Lift = 0.953
+Rule: ('2.0', 'wood frame (5)') ==> ('8',) , confidence = 0.857 , Lift = 0.953
+Rule: ('2.0', 'wood frame (5)') ==> ('8', 'otc alterations permit') , confidence = 0.857 , Lift = 0.953
+Rule: ('2.0', 'wood frame (5)') ==> ('5.0', '8') , confidence = 0.857 , Lift = 1.535
+Rule: ('5.0', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 0.857 , Lift = 0.953
+Rule: ('2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 0.857 , Lift = 1.535
+Rule: ('5.0', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.857 , Lift = 0.953
+Rule: ('2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.857 , Lift = 1.535
+Rule: ('5.0', '2.0', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.857 , Lift = 0.953
+Rule: ('2.0', '1.0') ==> ('otc alterations permit',) , confidence = 0.858 , Lift = 0.954
+Rule: ('2.0', '1.0') ==> ('8',) , confidence = 0.858 , Lift = 0.954
+Rule: ('2.0', '1.0') ==> ('8', 'otc alterations permit') , confidence = 0.858 , Lift = 0.954
+Rule: ('2.0', 'St') ==> ('otc alterations permit',) , confidence = 0.860 , Lift = 0.957
+Rule: ('2.0', 'St') ==> ('8',) , confidence = 0.860 , Lift = 0.957
+Rule: ('2.0', 'St') ==> ('8', 'otc alterations permit') , confidence = 0.860 , Lift = 0.957
+Rule: ('2.0',) ==> ('otc alterations permit',) , confidence = 0.860 , Lift = 0.957
+Rule: ('2.0',) ==> ('8',) , confidence = 0.860 , Lift = 0.957
+Rule: ('2.0',) ==> ('otc alterations permit', '8') , confidence = 0.860 , Lift = 0.957
+Rule: ('issued', '2.0') ==> ('otc alterations permit',) , confidence = 0.861 , Lift = 0.958
+Rule: ('issued', '2.0') ==> ('8',) , confidence = 0.861 , Lift = 0.958
+Rule: ('issued', '2.0') ==> ('8', 'otc alterations permit') , confidence = 0.861 , Lift = 0.958
+Rule: ('1 family dwelling',) ==> ('2.0', 'wood frame (5)') , confidence = 0.862 , Lift = 1.865
+Rule: ('1 family dwelling',) ==> ('5.0', '2.0', 'wood frame (5)') , confidence = 0.862 , Lift = 1.865
+Rule: ('0.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.863 , Lift = 1.677
+Rule: ('0.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.863 , Lift = 1.677
+Rule: ('0.0', 'St') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.863 , Lift = 1.677
+Rule: ('0.0', 'St') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.863 , Lift = 1.677
+Rule: ('0.0', 'St') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.863 , Lift = 1.677
+Rule: ('0.0', 'St') ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.863 , Lift = 1.677
+Rule: ('5.0', '3.0') ==> ('8',) , confidence = 0.863 , Lift = 0.959
+Rule: ('5.0', '3.0') ==> ('otc alterations permit',) , confidence = 0.863 , Lift = 0.959
+Rule: ('5.0', '3.0') ==> ('8', 'otc alterations permit') , confidence = 0.863 , Lift = 0.959
+Rule: ('1 family dwelling',) ==> ('5.0', '2.0') , confidence = 0.863 , Lift = 1.789
+Rule: ('wood frame (5)', '3.0') ==> ('otc alterations permit',) , confidence = 0.863 , Lift = 0.960
+Rule: ('wood frame (5)', '3.0') ==> ('8',) , confidence = 0.863 , Lift = 0.960
+Rule: ('wood frame (5)', '3.0') ==> ('8', 'otc alterations permit') , confidence = 0.863 , Lift = 0.960
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', '8') , confidence = 0.863 , Lift = 1.546
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('8',) , confidence = 0.863 , Lift = 0.960
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.863 , Lift = 1.546
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('otc alterations permit',) , confidence = 0.863 , Lift = 0.960
+Rule: ('wood frame (5)', '3.0') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.863 , Lift = 1.546
+Rule: ('5.0', 'wood frame (5)', '3.0') ==> ('otc alterations permit', '8') , confidence = 0.863 , Lift = 0.960
+Rule: ('1 family dwelling',) ==> ('2.0',) , confidence = 0.867 , Lift = 1.226
+Rule: ('apartments',) ==> ('5.0',) , confidence = 0.868 , Lift = 1.378
+Rule: ('apartments',) ==> ('8',) , confidence = 0.868 , Lift = 0.966
+Rule: ('apartments',) ==> ('otc alterations permit',) , confidence = 0.868 , Lift = 0.966
+Rule: ('apartments',) ==> ('otc alterations permit', '8') , confidence = 0.868 , Lift = 0.966
+Rule: ('wood frame (5)', 'apartments') ==> ('otc alterations permit',) , confidence = 0.868 , Lift = 0.966
+Rule: ('wood frame (5)', 'apartments') ==> ('8',) , confidence = 0.868 , Lift = 0.966
+Rule: ('wood frame (5)', 'apartments') ==> ('5.0', '8') , confidence = 0.868 , Lift = 1.555
+Rule: ('5.0', 'wood frame (5)', 'apartments') ==> ('8',) , confidence = 0.868 , Lift = 0.966
+Rule: ('wood frame (5)', 'apartments') ==> ('5.0', 'otc alterations permit') , confidence = 0.868 , Lift = 1.555
+Rule: ('5.0', 'wood frame (5)', 'apartments') ==> ('otc alterations permit',) , confidence = 0.868 , Lift = 0.966
+Rule: ('wood frame (5)', 'apartments') ==> ('8', 'otc alterations permit') , confidence = 0.868 , Lift = 0.966
+Rule: ('wood frame (5)', 'apartments') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.868 , Lift = 1.555
+Rule: ('5.0', 'wood frame (5)', 'apartments') ==> ('otc alterations permit', '8') , confidence = 0.868 , Lift = 0.966
+Rule: ('5.0', '1 family dwelling') ==> ('2.0', 'wood frame (5)') , confidence = 0.869 , Lift = 1.880
+Rule: ('8', 'apartments') ==> ('5.0',) , confidence = 0.869 , Lift = 1.380
+Rule: ('otc alterations permit', 'apartments') ==> ('5.0',) , confidence = 0.869 , Lift = 1.380
+Rule: ('8', 'apartments') ==> ('5.0', 'otc alterations permit') , confidence = 0.869 , Lift = 1.557
+Rule: ('otc alterations permit', 'apartments') ==> ('5.0', '8') , confidence = 0.869 , Lift = 1.557
+Rule: ('otc alterations permit', '8', 'apartments') ==> ('5.0',) , confidence = 0.869 , Lift = 1.380
+Rule: ('1 family dwelling', '5.0') ==> ('2.0',) , confidence = 0.869 , Lift = 1.230
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('2.0',) , confidence = 0.870 , Lift = 1.230
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', '2.0') , confidence = 0.870 , Lift = 1.803
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('2.0',) , confidence = 0.870 , Lift = 1.230
+Rule: ('5.0', 'apartments') ==> ('8',) , confidence = 0.870 , Lift = 0.967
+Rule: ('5.0', 'apartments') ==> ('otc alterations permit',) , confidence = 0.870 , Lift = 0.967
+Rule: ('5.0', 'apartments') ==> ('8', 'otc alterations permit') , confidence = 0.870 , Lift = 0.967
+Rule: ('5.0', '3.0', 'St') ==> ('8',) , confidence = 0.870 , Lift = 0.968
+Rule: ('5.0', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 0.870 , Lift = 0.968
+Rule: ('5.0', '3.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.870 , Lift = 0.968
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 0.871 , Lift = 0.969
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('8',) , confidence = 0.871 , Lift = 0.969
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('5.0', '8') , confidence = 0.871 , Lift = 1.560
+Rule: ('5.0', 'wood frame (5)', '3.0', 'St') ==> ('8',) , confidence = 0.871 , Lift = 0.969
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.871 , Lift = 1.560
+Rule: ('5.0', 'wood frame (5)', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 0.871 , Lift = 0.969
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.871 , Lift = 0.969
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.871 , Lift = 1.560
+Rule: ('5.0', 'wood frame (5)', '3.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.871 , Lift = 0.969
+Rule: ('0.0', 'St') ==> ('wood frame (5)',) , confidence = 0.871 , Lift = 1.497
+Rule: ('0.0', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.871 , Lift = 1.497
+Rule: ('otc alterations permit', 'St', '0.0') ==> ('wood frame (5)',) , confidence = 0.874 , Lift = 1.501
+Rule: ('8', 'St', '0.0') ==> ('wood frame (5)',) , confidence = 0.874 , Lift = 1.501
+Rule: ('otc alterations permit', '0.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.874 , Lift = 1.699
+Rule: ('0.0', '8', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.874 , Lift = 1.699
+Rule: ('otc alterations permit', '0.0', '8', 'St') ==> ('wood frame (5)',) , confidence = 0.874 , Lift = 1.501
+Rule: ('0.0', 'otc alterations permit', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.874 , Lift = 1.501
+Rule: ('0.0', '8', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.874 , Lift = 1.501
+Rule: ('0.0', 'otc alterations permit', 'St') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.874 , Lift = 1.699
+Rule: ('0.0', '8', 'St') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.874 , Lift = 1.699
+Rule: ('0.0', 'otc alterations permit', '8', 'St') ==> ('5.0', 'wood frame (5)') , confidence = 0.874 , Lift = 1.501
+Rule: ('3.0',) ==> ('otc alterations permit',) , confidence = 0.874 , Lift = 0.972
+Rule: ('3.0',) ==> ('8',) , confidence = 0.874 , Lift = 0.972
+Rule: ('3.0',) ==> ('otc alterations permit', '8') , confidence = 0.874 , Lift = 0.972
+Rule: ('wood frame (5)', 'St') ==> ('8',) , confidence = 0.879 , Lift = 0.978
+Rule: ('wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 0.879 , Lift = 0.978
+Rule: ('wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.879 , Lift = 1.575
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 0.879 , Lift = 0.978
+Rule: ('wood frame (5)', 'St') ==> ('otc alterations permit', '8') , confidence = 0.879 , Lift = 0.978
+Rule: ('wood frame (5)', 'St') ==> ('5.0', '8') , confidence = 0.879 , Lift = 1.575
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 0.879 , Lift = 0.978
+Rule: ('wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.879 , Lift = 1.575
+Rule: ('5.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '8') , confidence = 0.879 , Lift = 0.978
+Rule: ('3.0', 'St') ==> ('otc alterations permit',) , confidence = 0.882 , Lift = 0.981
+Rule: ('3.0', 'St') ==> ('8',) , confidence = 0.882 , Lift = 0.981
+Rule: ('3.0', 'St') ==> ('8', 'otc alterations permit') , confidence = 0.882 , Lift = 0.981
+Rule: ('1 family dwelling', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.882 , Lift = 1.714
+Rule: ('1 family dwelling', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.882 , Lift = 1.714
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.882 , Lift = 1.714
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.882 , Lift = 1.714
+Rule: ('1 family dwelling', '2.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.882 , Lift = 1.714
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.882 , Lift = 1.714
+Rule: ('1.0', 'St') ==> ('otc alterations permit',) , confidence = 0.882 , Lift = 0.981
+Rule: ('1.0', 'St') ==> ('8',) , confidence = 0.882 , Lift = 0.981
+Rule: ('1.0', 'St') ==> ('8', 'otc alterations permit') , confidence = 0.882 , Lift = 0.981
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', '8') , confidence = 0.882 , Lift = 1.580
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.882 , Lift = 1.580
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.882 , Lift = 1.580
+Rule: ('wood frame (5)',) ==> ('8',) , confidence = 0.884 , Lift = 0.983
+Rule: ('wood frame (5)',) ==> ('otc alterations permit',) , confidence = 0.884 , Lift = 0.983
+Rule: ('wood frame (5)',) ==> ('5.0', '8') , confidence = 0.884 , Lift = 1.583
+Rule: ('5.0', 'wood frame (5)') ==> ('8',) , confidence = 0.884 , Lift = 0.983
+Rule: ('wood frame (5)',) ==> ('5.0', 'otc alterations permit') , confidence = 0.884 , Lift = 1.583
+Rule: ('5.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.884 , Lift = 0.983
+Rule: ('wood frame (5)',) ==> ('8', 'otc alterations permit') , confidence = 0.884 , Lift = 0.983
+Rule: ('wood frame (5)',) ==> ('5.0', '8', 'otc alterations permit') , confidence = 0.884 , Lift = 1.583
+Rule: ('5.0', 'wood frame (5)') ==> ('8', 'otc alterations permit') , confidence = 0.884 , Lift = 0.983
+Rule: ('5.0', 'St') ==> ('8',) , confidence = 0.884 , Lift = 0.983
+Rule: ('5.0', 'St') ==> ('otc alterations permit',) , confidence = 0.884 , Lift = 0.983
+Rule: ('5.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.884 , Lift = 0.983
+Rule: ('1.0',) ==> ('otc alterations permit',) , confidence = 0.886 , Lift = 0.985
+Rule: ('1.0',) ==> ('8',) , confidence = 0.886 , Lift = 0.985
+Rule: ('1.0',) ==> ('otc alterations permit', '8') , confidence = 0.886 , Lift = 0.985
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.886 , Lift = 1.722
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.886 , Lift = 1.722
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.886 , Lift = 1.722
+Rule: ('1 family dwelling', '2.0') ==> ('otc alterations permit',) , confidence = 0.886 , Lift = 0.985
+Rule: ('1 family dwelling', '2.0') ==> ('8',) , confidence = 0.886 , Lift = 0.985
+Rule: ('1 family dwelling', '2.0') ==> ('8', 'otc alterations permit') , confidence = 0.886 , Lift = 0.985
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('8',) , confidence = 0.886 , Lift = 0.986
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('otc alterations permit',) , confidence = 0.886 , Lift = 0.986
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('otc alterations permit', '8') , confidence = 0.886 , Lift = 0.986
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.886 , Lift = 0.986
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 0.886 , Lift = 0.986
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 0.886 , Lift = 1.587
+Rule: ('5.0', '1 family dwelling', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.886 , Lift = 0.986
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('5.0', '8') , confidence = 0.886 , Lift = 1.587
+Rule: ('5.0', '1 family dwelling', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 0.886 , Lift = 0.986
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.886 , Lift = 0.986
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.886 , Lift = 1.587
+Rule: ('5.0', '1 family dwelling', '2.0', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.886 , Lift = 0.986
+Rule: ('5.0', 'complete', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.886 , Lift = 1.723
+Rule: ('5.0', 'complete', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.886 , Lift = 1.723
+Rule: ('5.0', 'complete', 'St') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.886 , Lift = 1.723
+Rule: ('5.0', '2.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.887 , Lift = 1.723
+Rule: ('5.0', '2.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.887 , Lift = 1.723
+Rule: ('5.0', '2.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.887 , Lift = 1.723
+Rule: ('5.0',) ==> ('otc alterations permit',) , confidence = 0.887 , Lift = 0.986
+Rule: ('5.0',) ==> ('8',) , confidence = 0.887 , Lift = 0.986
+Rule: ('5.0',) ==> ('otc alterations permit', '8') , confidence = 0.887 , Lift = 0.986
+Rule: ('0.0', 'St') ==> ('5.0', '8') , confidence = 0.887 , Lift = 1.588
+Rule: ('0.0', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.887 , Lift = 1.588
+Rule: ('0.0', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.887 , Lift = 1.588
+Rule: ('5.0', 'issued') ==> ('8',) , confidence = 0.889 , Lift = 0.989
+Rule: ('5.0', 'issued') ==> ('otc alterations permit',) , confidence = 0.889 , Lift = 0.989
+Rule: ('5.0', 'issued') ==> ('8', 'otc alterations permit') , confidence = 0.889 , Lift = 0.989
+Rule: ('1 family dwelling',) ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.893 , Lift = 1.735
+Rule: ('1 family dwelling',) ==> ('8', 'wood frame (5)') , confidence = 0.893 , Lift = 1.735
+Rule: ('1 family dwelling',) ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.893 , Lift = 1.735
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.893 , Lift = 1.735
+Rule: ('1 family dwelling',) ==> ('8', 'wood frame (5)', 'otc alterations permit') , confidence = 0.893 , Lift = 1.735
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.893 , Lift = 1.735
+Rule: ('1 family dwelling',) ==> ('5.0', '8') , confidence = 0.893 , Lift = 1.600
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit') , confidence = 0.893 , Lift = 1.600
+Rule: ('1 family dwelling',) ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.893 , Lift = 1.600
+Rule: ('0.0', 'St') ==> ('5.0',) , confidence = 0.896 , Lift = 1.423
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('wood frame (5)',) , confidence = 0.897 , Lift = 1.540
+Rule: ('5.0', '8', 'St') ==> ('wood frame (5)',) , confidence = 0.897 , Lift = 1.540
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.897 , Lift = 1.743
+Rule: ('5.0', '8', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.897 , Lift = 1.743
+Rule: ('5.0', 'otc alterations permit', '8', 'St') ==> ('wood frame (5)',) , confidence = 0.897 , Lift = 1.540
+Rule: ('0.0',) ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.897 , Lift = 1.743
+Rule: ('0.0',) ==> ('8', 'wood frame (5)') , confidence = 0.897 , Lift = 1.743
+Rule: ('0.0',) ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.897 , Lift = 1.743
+Rule: ('0.0',) ==> ('8', 'wood frame (5)', 'otc alterations permit') , confidence = 0.897 , Lift = 1.743
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.897 , Lift = 1.743
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.897 , Lift = 1.743
+Rule: ('5.0', 'Av') ==> ('8',) , confidence = 0.898 , Lift = 0.998
+Rule: ('5.0', 'Av') ==> ('otc alterations permit',) , confidence = 0.898 , Lift = 0.998
+Rule: ('5.0', 'Av') ==> ('8', 'otc alterations permit') , confidence = 0.898 , Lift = 0.998
+Rule: ('8', 'St', '0.0') ==> ('5.0',) , confidence = 0.898 , Lift = 1.427
+Rule: ('0.0', 'St', 'otc alterations permit') ==> ('5.0',) , confidence = 0.898 , Lift = 1.427
+Rule: ('otc alterations permit', '0.0', 'St') ==> ('5.0', '8') , confidence = 0.898 , Lift = 1.609
+Rule: ('0.0', '8', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.898 , Lift = 1.609
+Rule: ('otc alterations permit', '0.0', '8', 'St') ==> ('5.0',) , confidence = 0.898 , Lift = 1.427
+Rule: ('St',) ==> ('8',) , confidence = 0.899 , Lift = 1.000
+Rule: ('St',) ==> ('otc alterations permit',) , confidence = 0.899 , Lift = 1.000
+Rule: ('St',) ==> ('otc alterations permit', '8') , confidence = 0.899 , Lift = 1.000
+Rule: ('5.0', '1 family dwelling') ==> ('8', 'wood frame (5)') , confidence = 0.899 , Lift = 1.748
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.899 , Lift = 1.748
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.899 , Lift = 1.748
+Rule: ('1 family dwelling', '5.0') ==> ('8',) , confidence = 0.900 , Lift = 1.001
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit',) , confidence = 0.900 , Lift = 1.001
+Rule: ('5.0', '1 family dwelling') ==> ('otc alterations permit', '8') , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('8',) , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', '8') , confidence = 0.900 , Lift = 1.612
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('8',) , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 0.900 , Lift = 1.612
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('8', 'otc alterations permit') , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.900 , Lift = 1.612
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling',) ==> ('8',) , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling',) ==> ('otc alterations permit',) , confidence = 0.900 , Lift = 1.001
+Rule: ('1 family dwelling',) ==> ('8', 'otc alterations permit') , confidence = 0.900 , Lift = 1.001
+Rule: ('5.0', 'St') ==> ('wood frame (5)',) , confidence = 0.901 , Lift = 1.548
+Rule: ('5.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.903 , Lift = 1.755
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.903 , Lift = 1.755
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.903 , Lift = 1.755
+Rule: ('0.0',) ==> ('wood frame (5)',) , confidence = 0.904 , Lift = 1.553
+Rule: ('0.0',) ==> ('5.0', 'wood frame (5)') , confidence = 0.904 , Lift = 1.553
+Rule: ('0.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.905 , Lift = 1.759
+Rule: ('0.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.905 , Lift = 1.759
+Rule: ('0.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.905 , Lift = 1.759
+Rule: ('0.0', 'complete') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.905 , Lift = 1.759
+Rule: ('0.0', 'complete') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.905 , Lift = 1.759
+Rule: ('0.0', 'complete') ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.905 , Lift = 1.759
+Rule: ('Av',) ==> ('otc alterations permit',) , confidence = 0.906 , Lift = 1.007
+Rule: ('Av',) ==> ('8',) , confidence = 0.906 , Lift = 1.007
+Rule: ('Av',) ==> ('otc alterations permit', '8') , confidence = 0.906 , Lift = 1.007
+Rule: ('otc alterations permit', '0.0') ==> ('wood frame (5)',) , confidence = 0.906 , Lift = 1.556
+Rule: ('8', '0.0') ==> ('wood frame (5)',) , confidence = 0.906 , Lift = 1.556
+Rule: ('8', '0.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.906 , Lift = 1.556
+Rule: ('8', '0.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.906 , Lift = 1.761
+Rule: ('otc alterations permit', '0.0') ==> ('8', 'wood frame (5)') , confidence = 0.906 , Lift = 1.761
+Rule: ('0.0', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.906 , Lift = 1.556
+Rule: ('otc alterations permit', '0.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.906 , Lift = 1.556
+Rule: ('0.0', 'otc alterations permit') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.906 , Lift = 1.761
+Rule: ('0.0', '8') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.906 , Lift = 1.761
+Rule: ('0.0', '8', 'otc alterations permit') ==> ('5.0', 'wood frame (5)') , confidence = 0.906 , Lift = 1.556
+Rule: ('0.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.910 , Lift = 1.563
+Rule: ('0.0', 'complete') ==> ('5.0', 'wood frame (5)') , confidence = 0.910 , Lift = 1.563
+Rule: ('0.0', 'complete', '8') ==> ('wood frame (5)',) , confidence = 0.911 , Lift = 1.565
+Rule: ('otc alterations permit', 'complete', '0.0') ==> ('wood frame (5)',) , confidence = 0.911 , Lift = 1.565
+Rule: ('0.0', 'complete', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.911 , Lift = 1.771
+Rule: ('0.0', 'complete', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.911 , Lift = 1.771
+Rule: ('0.0', '8', 'complete', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.911 , Lift = 1.565
+Rule: ('0.0', 'complete', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.911 , Lift = 1.565
+Rule: ('otc alterations permit', 'complete', '0.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.911 , Lift = 1.565
+Rule: ('0.0', 'complete', 'otc alterations permit') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.911 , Lift = 1.771
+Rule: ('0.0', 'complete', '8') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.911 , Lift = 1.771
+Rule: ('0.0', '8', 'complete', 'otc alterations permit') ==> ('5.0', 'wood frame (5)') , confidence = 0.911 , Lift = 1.565
+Rule: ('0.0',) ==> ('5.0', '8') , confidence = 0.914 , Lift = 1.637
+Rule: ('0.0',) ==> ('5.0', 'otc alterations permit') , confidence = 0.914 , Lift = 1.637
+Rule: ('0.0',) ==> ('5.0', '8', 'otc alterations permit') , confidence = 0.914 , Lift = 1.637
+Rule: ('2.0', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 0.914 , Lift = 1.017
+Rule: ('2.0', 'complete', 'St') ==> ('8',) , confidence = 0.914 , Lift = 1.017
+Rule: ('2.0', 'complete', 'St') ==> ('otc alterations permit', '8') , confidence = 0.914 , Lift = 1.017
+Rule: ('5.0', '2.0', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 0.917 , Lift = 1.020
+Rule: ('5.0', '2.0', 'complete', 'St') ==> ('8',) , confidence = 0.917 , Lift = 1.020
+Rule: ('5.0', '2.0', 'complete', 'St') ==> ('otc alterations permit', '8') , confidence = 0.917 , Lift = 1.020
+Rule: ('2.0', 'complete') ==> ('8',) , confidence = 0.917 , Lift = 1.020
+Rule: ('2.0', 'complete') ==> ('otc alterations permit',) , confidence = 0.917 , Lift = 1.020
+Rule: ('2.0', 'complete') ==> ('8', 'otc alterations permit') , confidence = 0.917 , Lift = 1.020
+Rule: ('0.0',) ==> ('5.0',) , confidence = 0.921 , Lift = 1.463
+Rule: ('5.0', '8') ==> ('wood frame (5)',) , confidence = 0.921 , Lift = 1.583
+Rule: ('5.0', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.921 , Lift = 1.583
+Rule: ('5.0', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.921 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.921 , Lift = 1.791
+Rule: ('5.0', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.921 , Lift = 1.583
+Rule: ('0.0', 'complete') ==> ('5.0', '8') , confidence = 0.922 , Lift = 1.651
+Rule: ('0.0', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.922 , Lift = 1.651
+Rule: ('0.0', 'complete') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.922 , Lift = 1.651
+Rule: ('issued',) ==> ('8',) , confidence = 0.923 , Lift = 1.026
+Rule: ('issued',) ==> ('otc alterations permit',) , confidence = 0.923 , Lift = 1.026
+Rule: ('issued',) ==> ('otc alterations permit', '8') , confidence = 0.923 , Lift = 1.026
+Rule: ('0.0', '8') ==> ('5.0',) , confidence = 0.923 , Lift = 1.466
+Rule: ('otc alterations permit', '0.0') ==> ('5.0',) , confidence = 0.923 , Lift = 1.466
+Rule: ('8', '0.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.923 , Lift = 1.653
+Rule: ('0.0', 'otc alterations permit') ==> ('5.0', '8') , confidence = 0.923 , Lift = 1.653
+Rule: ('otc alterations permit', '8', '0.0') ==> ('5.0',) , confidence = 0.923 , Lift = 1.466
+Rule: ('5.0', '2.0', 'complete') ==> ('8',) , confidence = 0.924 , Lift = 1.027
+Rule: ('5.0', '2.0', 'complete') ==> ('otc alterations permit',) , confidence = 0.924 , Lift = 1.027
+Rule: ('5.0', '2.0', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.924 , Lift = 1.027
+Rule: ('5.0',) ==> ('wood frame (5)',) , confidence = 0.925 , Lift = 1.588
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 0.925 , Lift = 1.029
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 0.925 , Lift = 1.029
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.925 , Lift = 1.657
+Rule: ('5.0', '2.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 0.925 , Lift = 1.029
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.925 , Lift = 1.029
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('5.0', '8') , confidence = 0.925 , Lift = 1.657
+Rule: ('5.0', '2.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 0.925 , Lift = 1.029
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.925 , Lift = 1.657
+Rule: ('5.0', '2.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.925 , Lift = 1.029
+Rule: ('complete', '3.0') ==> ('otc alterations permit',) , confidence = 0.926 , Lift = 1.030
+Rule: ('complete', '3.0') ==> ('8',) , confidence = 0.926 , Lift = 1.030
+Rule: ('complete', '3.0') ==> ('8', 'otc alterations permit') , confidence = 0.926 , Lift = 1.030
+Rule: ('issued', 'St') ==> ('8',) , confidence = 0.927 , Lift = 1.031
+Rule: ('issued', 'St') ==> ('otc alterations permit',) , confidence = 0.927 , Lift = 1.031
+Rule: ('issued', 'St') ==> ('otc alterations permit', '8') , confidence = 0.927 , Lift = 1.031
+Rule: ('0.0', 'complete') ==> ('5.0',) , confidence = 0.927 , Lift = 1.472
+Rule: ('8', 'complete', '0.0') ==> ('5.0',) , confidence = 0.928 , Lift = 1.474
+Rule: ('otc alterations permit', 'complete', '0.0') ==> ('5.0',) , confidence = 0.928 , Lift = 1.474
+Rule: ('otc alterations permit', 'complete', '0.0') ==> ('5.0', '8') , confidence = 0.928 , Lift = 1.662
+Rule: ('0.0', 'complete', '8') ==> ('5.0', 'otc alterations permit') , confidence = 0.928 , Lift = 1.662
+Rule: ('otc alterations permit', '8', 'complete', '0.0') ==> ('5.0',) , confidence = 0.928 , Lift = 1.474
+Rule: ('complete', 'St') ==> ('otc alterations permit',) , confidence = 0.929 , Lift = 1.033
+Rule: ('complete', 'St') ==> ('8',) , confidence = 0.929 , Lift = 1.033
+Rule: ('complete', 'St') ==> ('8', 'otc alterations permit') , confidence = 0.929 , Lift = 1.033
+Rule: ('complete', '3.0', 'St') ==> ('8',) , confidence = 0.929 , Lift = 1.033
+Rule: ('complete', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 0.929 , Lift = 1.033
+Rule: ('complete', '3.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.929 , Lift = 1.033
+Rule: ('complete',) ==> ('8',) , confidence = 0.932 , Lift = 1.036
+Rule: ('complete',) ==> ('otc alterations permit',) , confidence = 0.932 , Lift = 1.036
+Rule: ('complete',) ==> ('8', 'otc alterations permit') , confidence = 0.932 , Lift = 1.036
+Rule: ('5.0', 'complete', 'St') ==> ('8',) , confidence = 0.935 , Lift = 1.040
+Rule: ('5.0', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 0.935 , Lift = 1.040
+Rule: ('5.0', 'complete', 'St') ==> ('otc alterations permit', '8') , confidence = 0.935 , Lift = 1.040
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 0.936 , Lift = 1.041
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('8',) , confidence = 0.936 , Lift = 1.041
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('otc alterations permit', '8') , confidence = 0.936 , Lift = 1.041
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('5.0', '8') , confidence = 0.936 , Lift = 1.677
+Rule: ('5.0', 'wood frame (5)', 'complete', 'St') ==> ('8',) , confidence = 0.936 , Lift = 1.041
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.936 , Lift = 1.677
+Rule: ('5.0', 'wood frame (5)', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 0.936 , Lift = 1.041
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.936 , Lift = 1.677
+Rule: ('5.0', 'wood frame (5)', 'complete', 'St') ==> ('otc alterations permit', '8') , confidence = 0.936 , Lift = 1.041
+Rule: ('0.0', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.940 , Lift = 1.826
+Rule: ('0.0', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.940 , Lift = 1.826
+Rule: ('0.0', '2.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.940 , Lift = 1.826
+Rule: ('0.0', '2.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.940 , Lift = 1.826
+Rule: ('0.0', '2.0') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.940 , Lift = 1.826
+Rule: ('0.0', '2.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)', '8') , confidence = 0.940 , Lift = 1.826
+Rule: ('5.0', 'complete') ==> ('8',) , confidence = 0.940 , Lift = 1.045
+Rule: ('5.0', 'complete') ==> ('otc alterations permit',) , confidence = 0.940 , Lift = 1.045
+Rule: ('5.0', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.940 , Lift = 1.045
+Rule: ('wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 0.941 , Lift = 1.046
+Rule: ('wood frame (5)', 'complete') ==> ('8',) , confidence = 0.941 , Lift = 1.046
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', '8') , confidence = 0.941 , Lift = 1.685
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 0.941 , Lift = 1.046
+Rule: ('wood frame (5)', 'complete') ==> ('8', 'otc alterations permit') , confidence = 0.941 , Lift = 1.046
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.941 , Lift = 1.685
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 0.941 , Lift = 1.046
+Rule: ('wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.941 , Lift = 1.685
+Rule: ('5.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.941 , Lift = 1.046
+Rule: ('0.0', '2.0') ==> ('5.0', '8') , confidence = 0.944 , Lift = 1.691
+Rule: ('0.0', '2.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.944 , Lift = 1.691
+Rule: ('0.0', '2.0') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.944 , Lift = 1.691
+Rule: ('5.0', '2.0', 'St') ==> ('wood frame (5)',) , confidence = 0.945 , Lift = 1.624
+Rule: ('5.0', '2.0', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.946 , Lift = 1.624
+Rule: ('0.0', '2.0') ==> ('wood frame (5)',) , confidence = 0.946 , Lift = 1.624
+Rule: ('0.0', '2.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.946 , Lift = 1.624
+Rule: ('5.0', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.626
+Rule: ('5.0', '8', '2.0', 'St') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.627
+Rule: ('5.0', 'otc alterations permit', '2.0', 'St') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.627
+Rule: ('5.0', 'otc alterations permit', '2.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.947 , Lift = 1.841
+Rule: ('5.0', '8', '2.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.947 , Lift = 1.841
+Rule: ('5.0', 'otc alterations permit', '2.0', '8', 'St') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.627
+Rule: ('otc alterations permit', '2.0', '0.0') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.627
+Rule: ('8', '2.0', '0.0') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.627
+Rule: ('otc alterations permit', '2.0', '0.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.947 , Lift = 1.627
+Rule: ('otc alterations permit', '2.0', '0.0') ==> ('8', 'wood frame (5)') , confidence = 0.947 , Lift = 1.842
+Rule: ('0.0', '2.0', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.947 , Lift = 1.842
+Rule: ('otc alterations permit', '2.0', '8', '0.0') ==> ('wood frame (5)',) , confidence = 0.947 , Lift = 1.627
+Rule: ('0.0', '2.0', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.947 , Lift = 1.627
+Rule: ('0.0', '2.0', 'otc alterations permit') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.947 , Lift = 1.842
+Rule: ('0.0', '2.0', '8') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.947 , Lift = 1.842
+Rule: ('0.0', '2.0', '8', 'otc alterations permit') ==> ('5.0', 'wood frame (5)') , confidence = 0.947 , Lift = 1.627
+Rule: ('5.0', '3.0', 'St') ==> ('wood frame (5)',) , confidence = 0.948 , Lift = 1.628
+Rule: ('5.0', '8', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.948 , Lift = 1.628
+Rule: ('5.0', 'otc alterations permit', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.948 , Lift = 1.628
+Rule: ('5.0', 'otc alterations permit', 'complete', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.948 , Lift = 1.842
+Rule: ('5.0', '8', 'complete', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.948 , Lift = 1.842
+Rule: ('5.0', 'otc alterations permit', '8', 'complete', 'St') ==> ('wood frame (5)',) , confidence = 0.948 , Lift = 1.628
+Rule: ('5.0', '2.0', '3.0') ==> ('wood frame (5)',) , confidence = 0.948 , Lift = 1.629
+Rule: ('5.0', '8', '3.0', 'St') ==> ('wood frame (5)',) , confidence = 0.949 , Lift = 1.630
+Rule: ('5.0', 'otc alterations permit', '3.0', 'St') ==> ('wood frame (5)',) , confidence = 0.949 , Lift = 1.630
+Rule: ('5.0', 'otc alterations permit', '3.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.949 , Lift = 1.844
+Rule: ('5.0', '8', '3.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.949 , Lift = 1.844
+Rule: ('5.0', 'otc alterations permit', '8', '3.0', 'St') ==> ('wood frame (5)',) , confidence = 0.949 , Lift = 1.630
+Rule: ('0.0', '2.0') ==> ('5.0',) , confidence = 0.950 , Lift = 1.509
+Rule: ('5.0', '8', 'apartments') ==> ('wood frame (5)',) , confidence = 0.950 , Lift = 1.632
+Rule: ('5.0', 'otc alterations permit', 'apartments') ==> ('wood frame (5)',) , confidence = 0.950 , Lift = 1.632
+Rule: ('5.0', 'otc alterations permit', 'apartments') ==> ('8', 'wood frame (5)') , confidence = 0.950 , Lift = 1.847
+Rule: ('5.0', '8', 'apartments') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.950 , Lift = 1.847
+Rule: ('5.0', 'otc alterations permit', '8', 'apartments') ==> ('wood frame (5)',) , confidence = 0.950 , Lift = 1.632
+Rule: ('5.0', 'apartments') ==> ('wood frame (5)',) , confidence = 0.952 , Lift = 1.635
+Rule: ('8', '2.0', '0.0') ==> ('5.0',) , confidence = 0.952 , Lift = 1.512
+Rule: ('0.0', '2.0', 'otc alterations permit') ==> ('5.0',) , confidence = 0.952 , Lift = 1.512
+Rule: ('0.0', '2.0', 'otc alterations permit') ==> ('5.0', '8') , confidence = 0.952 , Lift = 1.705
+Rule: ('0.0', '2.0', '8') ==> ('5.0', 'otc alterations permit') , confidence = 0.952 , Lift = 1.705
+Rule: ('0.0', '2.0', '8', 'otc alterations permit') ==> ('5.0',) , confidence = 0.952 , Lift = 1.512
+Rule: ('5.0', '3.0') ==> ('wood frame (5)',) , confidence = 0.958 , Lift = 1.646
+Rule: ('5.0', '2.0') ==> ('wood frame (5)',) , confidence = 0.958 , Lift = 1.646
+Rule: ('5.0', '2.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.959 , Lift = 1.647
+Rule: ('5.0', '8', '3.0') ==> ('wood frame (5)',) , confidence = 0.959 , Lift = 1.647
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('wood frame (5)',) , confidence = 0.959 , Lift = 1.647
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('8', 'wood frame (5)') , confidence = 0.959 , Lift = 1.863
+Rule: ('5.0', '8', '3.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.959 , Lift = 1.863
+Rule: ('5.0', 'otc alterations permit', '3.0', '8') ==> ('wood frame (5)',) , confidence = 0.959 , Lift = 1.647
+Rule: ('5.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.648
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.649
+Rule: ('5.0', '8', '2.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.649
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.960 , Lift = 1.866
+Rule: ('5.0', '8', '2.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.960 , Lift = 1.866
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete', '8') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.649
+Rule: ('5.0', '8', '2.0') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.649
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.649
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.960 , Lift = 1.866
+Rule: ('5.0', '8', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.960 , Lift = 1.866
+Rule: ('5.0', 'otc alterations permit', '2.0', '8') ==> ('wood frame (5)',) , confidence = 0.960 , Lift = 1.649
+Rule: ('5.0', '8', 'complete') ==> ('wood frame (5)',) , confidence = 0.961 , Lift = 1.650
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('wood frame (5)',) , confidence = 0.961 , Lift = 1.650
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.961 , Lift = 1.867
+Rule: ('5.0', '8', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.961 , Lift = 1.867
+Rule: ('5.0', 'otc alterations permit', 'complete', '8') ==> ('wood frame (5)',) , confidence = 0.961 , Lift = 1.650
+Rule: ('5.0', '0.0', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.963 , Lift = 1.871
+Rule: ('5.0', '0.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.963 , Lift = 1.871
+Rule: ('5.0', '0.0', 'St') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.963 , Lift = 1.871
+Rule: ('5.0', 'Av') ==> ('wood frame (5)',) , confidence = 0.963 , Lift = 1.654
+Rule: ('5.0', '0.0', 'St') ==> ('wood frame (5)',) , confidence = 0.972 , Lift = 1.671
+Rule: ('5.0', 'otc alterations permit', '0.0', 'St') ==> ('wood frame (5)',) , confidence = 0.973 , Lift = 1.671
+Rule: ('5.0', '0.0', '8', 'St') ==> ('wood frame (5)',) , confidence = 0.973 , Lift = 1.671
+Rule: ('5.0', 'otc alterations permit', '0.0', 'St') ==> ('8', 'wood frame (5)') , confidence = 0.973 , Lift = 1.891
+Rule: ('5.0', '0.0', '8', 'St') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.973 , Lift = 1.891
+Rule: ('5.0', 'otc alterations permit', '0.0', '8', 'St') ==> ('wood frame (5)',) , confidence = 0.973 , Lift = 1.671
+Rule: ('5.0', '0.0') ==> ('8', 'wood frame (5)') , confidence = 0.973 , Lift = 1.892
+Rule: ('5.0', '0.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.973 , Lift = 1.892
+Rule: ('5.0', '0.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.973 , Lift = 1.892
+Rule: ('5.0', '0.0', 'complete') ==> ('8', 'wood frame (5)') , confidence = 0.977 , Lift = 1.898
+Rule: ('5.0', '0.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.977 , Lift = 1.898
+Rule: ('5.0', '0.0', 'complete') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.977 , Lift = 1.898
+Rule: ('5.0', '0.0') ==> ('wood frame (5)',) , confidence = 0.981 , Lift = 1.686
+Rule: ('5.0', '8', '0.0') ==> ('wood frame (5)',) , confidence = 0.981 , Lift = 1.686
+Rule: ('5.0', 'otc alterations permit', '0.0') ==> ('wood frame (5)',) , confidence = 0.981 , Lift = 1.686
+Rule: ('5.0', '0.0', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.981 , Lift = 1.908
+Rule: ('5.0', '0.0', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.981 , Lift = 1.908
+Rule: ('5.0', '0.0', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.981 , Lift = 1.686
+Rule: ('5.0', '0.0', 'complete') ==> ('wood frame (5)',) , confidence = 0.982 , Lift = 1.686
+Rule: ('5.0', '0.0', 'complete', '8') ==> ('wood frame (5)',) , confidence = 0.982 , Lift = 1.686
+Rule: ('5.0', 'otc alterations permit', 'complete', '0.0') ==> ('wood frame (5)',) , confidence = 0.982 , Lift = 1.686
+Rule: ('5.0', '0.0', 'complete', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.982 , Lift = 1.908
+Rule: ('5.0', '0.0', 'complete', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.982 , Lift = 1.908
+Rule: ('5.0', '0.0', '8', 'complete', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.982 , Lift = 1.686
+Rule: ('0.0', 'St') ==> ('otc alterations permit',) , confidence = 0.987 , Lift = 1.098
+Rule: ('0.0', 'St') ==> ('8',) , confidence = 0.987 , Lift = 1.098
+Rule: ('0.0', 'St') ==> ('8', 'otc alterations permit') , confidence = 0.987 , Lift = 1.098
+Rule: ('5.0', '0.0', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.989 , Lift = 1.922
+Rule: ('5.0', '0.0', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.989 , Lift = 1.922
+Rule: ('5.0', '0.0', '2.0') ==> ('otc alterations permit', 'wood frame (5)', '8') , confidence = 0.989 , Lift = 1.922
+Rule: ('5.0', '0.0', 'St') ==> ('8',) , confidence = 0.990 , Lift = 1.101
+Rule: ('5.0', '0.0', 'St') ==> ('otc alterations permit',) , confidence = 0.990 , Lift = 1.101
+Rule: ('5.0', '0.0', 'St') ==> ('otc alterations permit', '8') , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0',) ==> ('8',) , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0',) ==> ('otc alterations permit',) , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0',) ==> ('otc alterations permit', '8') , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '8') , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 0.990 , Lift = 1.773
+Rule: ('5.0', '0.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('5.0', '8') , confidence = 0.990 , Lift = 1.773
+Rule: ('5.0', '0.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 0.990 , Lift = 1.101
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.990 , Lift = 1.773
+Rule: ('5.0', '0.0', 'wood frame (5)', 'St') ==> ('otc alterations permit', '8') , confidence = 0.990 , Lift = 1.101
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.992 , Lift = 1.703
+Rule: ('1 family dwelling', '8') ==> ('wood frame (5)',) , confidence = 0.992 , Lift = 1.703
+Rule: ('1 family dwelling', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.992 , Lift = 1.703
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', 'wood frame (5)') , confidence = 0.992 , Lift = 1.703
+Rule: ('1 family dwelling', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.992 , Lift = 1.927
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.992 , Lift = 1.927
+Rule: ('1 family dwelling', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.992 , Lift = 1.703
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.992 , Lift = 1.927
+Rule: ('1 family dwelling', '8') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.992 , Lift = 1.927
+Rule: ('1 family dwelling', 'otc alterations permit', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.992 , Lift = 1.703
+Rule: ('0.0', '2.0') ==> ('otc alterations permit',) , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', '2.0') ==> ('8',) , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', '2.0') ==> ('8', 'otc alterations permit') , confidence = 0.992 , Lift = 1.103
+Rule: ('1 family dwelling',) ==> ('wood frame (5)',) , confidence = 0.992 , Lift = 1.704
+Rule: ('1 family dwelling',) ==> ('5.0', 'wood frame (5)') , confidence = 0.992 , Lift = 1.704
+Rule: ('5.0', '0.0') ==> ('8',) , confidence = 0.992 , Lift = 1.103
+Rule: ('5.0', '0.0') ==> ('otc alterations permit',) , confidence = 0.992 , Lift = 1.103
+Rule: ('5.0', '0.0') ==> ('8', 'otc alterations permit') , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', 'wood frame (5)') ==> ('8',) , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', '8') , confidence = 0.992 , Lift = 1.777
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('8',) , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', 'wood frame (5)') ==> ('8', 'otc alterations permit') , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 0.992 , Lift = 1.777
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.992 , Lift = 1.103
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.992 , Lift = 1.777
+Rule: ('5.0', '0.0', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.992 , Lift = 1.103
+Rule: ('1 family dwelling', '8') ==> ('5.0',) , confidence = 0.992 , Lift = 1.576
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0',) , confidence = 0.992 , Lift = 1.576
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('5.0', '8') , confidence = 0.992 , Lift = 1.777
+Rule: ('1 family dwelling', '8') ==> ('5.0', 'otc alterations permit') , confidence = 0.992 , Lift = 1.777
+Rule: ('1 family dwelling', 'otc alterations permit', '8') ==> ('5.0',) , confidence = 0.992 , Lift = 1.576
+Rule: ('1 family dwelling',) ==> ('5.0',) , confidence = 0.992 , Lift = 1.576
+Rule: ('5.0', '0.0', '2.0') ==> ('8',) , confidence = 0.994 , Lift = 1.105
+Rule: ('5.0', '0.0', '2.0') ==> ('otc alterations permit',) , confidence = 0.994 , Lift = 1.105
+Rule: ('5.0', '0.0', '2.0') ==> ('otc alterations permit', '8') , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', 'complete') ==> ('otc alterations permit',) , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', 'complete') ==> ('8',) , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 0.994 , Lift = 1.780
+Rule: ('5.0', '0.0', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('5.0', '8') , confidence = 0.994 , Lift = 1.780
+Rule: ('5.0', '0.0', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 0.994 , Lift = 1.105
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.994 , Lift = 1.780
+Rule: ('5.0', '0.0', '2.0', 'wood frame (5)') ==> ('otc alterations permit', '8') , confidence = 0.994 , Lift = 1.105
+Rule: ('5.0', '0.0', 'complete') ==> ('8',) , confidence = 0.995 , Lift = 1.106
+Rule: ('5.0', '0.0', 'complete') ==> ('otc alterations permit',) , confidence = 0.995 , Lift = 1.106
+Rule: ('5.0', '0.0', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.995 , Lift = 1.106
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 0.995 , Lift = 1.107
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 0.995 , Lift = 1.107
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.995 , Lift = 1.107
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('5.0', '8') , confidence = 0.995 , Lift = 1.782
+Rule: ('5.0', '0.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 0.995 , Lift = 1.107
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 0.995 , Lift = 1.782
+Rule: ('5.0', '0.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 0.995 , Lift = 1.107
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit', '8') , confidence = 0.995 , Lift = 1.782
+Rule: ('5.0', '0.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit', '8') , confidence = 0.995 , Lift = 1.107
+Rule: ('1 family dwelling', '2.0') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.709
+Rule: ('1 family dwelling', '2.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.995 , Lift = 1.709
+Rule: ('5.0', '0.0', '2.0') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.709
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.710
+Rule: ('1 family dwelling', '8', '2.0') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.710
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.995 , Lift = 1.710
+Rule: ('1 family dwelling', '8', '2.0') ==> ('5.0', 'wood frame (5)') , confidence = 0.995 , Lift = 1.710
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('8', 'wood frame (5)') , confidence = 0.995 , Lift = 1.935
+Rule: ('1 family dwelling', '8', '2.0') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.995 , Lift = 1.935
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', '8') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.710
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('5.0', '8', 'wood frame (5)') , confidence = 0.995 , Lift = 1.935
+Rule: ('1 family dwelling', '8', '2.0') ==> ('5.0', 'otc alterations permit', 'wood frame (5)') , confidence = 0.995 , Lift = 1.935
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', '8') ==> ('5.0', 'wood frame (5)') , confidence = 0.995 , Lift = 1.710
+Rule: ('5.0', 'otc alterations permit', '2.0', '0.0') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.710
+Rule: ('5.0', '0.0', '2.0', '8') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.710
+Rule: ('5.0', '0.0', '2.0', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.995 , Lift = 1.935
+Rule: ('5.0', '0.0', '2.0', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.995 , Lift = 1.935
+Rule: ('5.0', '0.0', '2.0', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.995 , Lift = 1.710
+Rule: ('1 family dwelling', '2.0') ==> ('5.0',) , confidence = 0.996 , Lift = 1.581
+Rule: ('1 family dwelling', '8', '2.0') ==> ('5.0',) , confidence = 0.996 , Lift = 1.582
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('5.0',) , confidence = 0.996 , Lift = 1.582
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('5.0', '8') , confidence = 0.996 , Lift = 1.784
+Rule: ('1 family dwelling', '8', '2.0') ==> ('5.0', 'otc alterations permit') , confidence = 0.996 , Lift = 1.784
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', '8') ==> ('5.0',) , confidence = 0.996 , Lift = 1.582
+Rule: ('5.0', '1 family dwelling') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', '8') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.999 , Lift = 1.942
+Rule: ('5.0', '1 family dwelling', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.999 , Lift = 1.942
+Rule: ('5.0', '1 family dwelling', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', '2.0') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', '2.0', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', '2.0', '8') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('5.0', '1 family dwelling', '2.0', 'otc alterations permit') ==> ('8', 'wood frame (5)') , confidence = 0.999 , Lift = 1.943
+Rule: ('5.0', '1 family dwelling', '2.0', '8') ==> ('otc alterations permit', 'wood frame (5)') , confidence = 0.999 , Lift = 1.943
+Rule: ('5.0', '1 family dwelling', '2.0', '8', 'otc alterations permit') ==> ('wood frame (5)',) , confidence = 0.999 , Lift = 1.717
+Rule: ('wood frame (5)',) ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8',) ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit',) ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('wood frame (5)', 'Av') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('wood frame (5)', 'apartments') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('issued', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'apartments') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'apartments') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '0.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '0.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '3.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '3.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'issued') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'issued') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('1 family dwelling', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('wood frame (5)', '3.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '1.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '1.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'Av') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'Av') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'St', '0.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'St', '0.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', '1 family dwelling') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '1 family dwelling', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('wood frame (5)', 'complete', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'otc alterations permit', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('2.0', 'wood frame (5)', '3.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'wood frame (5)', '0.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'issued', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'issued', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'apartments') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'wood frame (5)', '0.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '0.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'complete', '3.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'complete', '3.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '0.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'St', 'issued') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('issued', 'St', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('2.0', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '3.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '8', 'Av') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', 'Av') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'apartments') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('1 family dwelling', '8', '2.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '2.0', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '2.0', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'apartments') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'apartments') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('wood frame (5)', '3.0', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'complete', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '1.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '1.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '8', '2.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', '2.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'complete', '0.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'complete', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('issued', '2.0', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('issued', '2.0', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', '2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '2.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('otc alterations permit', 'wood frame (5)') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', '8', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'otc alterations permit') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '8', 'apartments') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', 'apartments') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '0.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '8', '3.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', '3.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0', '3.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', '3.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('2.0', 'wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '2.0', '1.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', '1.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'wood frame (5)', 'complete', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'wood frame (5)', 'complete', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '0.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'wood frame (5)', '8', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('2.0', 'wood frame (5)', 'complete', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', 'wood frame (5)', '3.0', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '2.0', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'otc alterations permit', '2.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '2.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', '3.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', '3.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'wood frame (5)', 'complete', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '0.0', '2.0', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', '2.0', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', 'complete', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '1 family dwelling', '2.0', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '1 family dwelling', '2.0', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'complete', '3.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'complete', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'complete', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', 'otc alterations permit', 'complete', '0.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', 'complete', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', 'wood frame (5)', '3.0') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '3.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'wood frame (5)', '3.0') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('1 family dwelling', '8', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '1 family dwelling', 'wood frame (5)', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', 'wood frame (5)', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'wood frame (5)', 'otc alterations permit') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('0.0', 'wood frame (5)', '8') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', '0.0', 'wood frame (5)', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', 'wood frame (5)', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'wood frame (5)', '8', 'otc alterations permit') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', '0.0', 'otc alterations permit', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', '8', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', '0.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', '2.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('8', '2.0', 'wood frame (5)', 'complete') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('8', 'wood frame (5)', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '0.0') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'wood frame (5)', '8', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '0.0') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '2.0', 'wood frame (5)', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', '8', '2.0', 'wood frame (5)') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'otc alterations permit', 'complete', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '2.0', 'wood frame (5)', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '2.0', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', 'apartments') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', 'wood frame (5)', 'apartments') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'apartments') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'wood frame (5)', 'apartments') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '8', 'apartments') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', '8', '2.0', 'wood frame (5)') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'wood frame (5)', 'complete', 'otc alterations permit') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('0.0', 'wood frame (5)', 'complete', '8') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', '0.0', 'wood frame (5)', 'complete', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', 'wood frame (5)', 'complete', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '8', 'wood frame (5)', 'complete', 'otc alterations permit') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'wood frame (5)', '3.0', 'St') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', 'wood frame (5)', '3.0', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', '3.0', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'wood frame (5)', '3.0', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', 'wood frame (5)', '8', '3.0', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', 'otc alterations permit', 'wood frame (5)', 'St') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('0.0', 'wood frame (5)', '8', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', '0.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', 'wood frame (5)', '8', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', 'otc alterations permit', 'wood frame (5)', '8', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('0.0', '2.0', 'wood frame (5)', 'otc alterations permit') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('0.0', '2.0', 'wood frame (5)', '8') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', '0.0', '2.0', 'wood frame (5)', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '0.0', '2.0', 'wood frame (5)', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('0.0', '2.0', 'wood frame (5)', '8', 'otc alterations permit') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'St') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', '2.0', 'wood frame (5)', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '2.0', 'wood frame (5)', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', '8', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'complete') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', '2.0', 'wood frame (5)', 'complete') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', '2.0', 'wood frame (5)', 'complete') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '2.0', 'wood frame (5)', 'complete') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '2.0', 'wood frame (5)', 'complete', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('otc alterations permit', 'wood frame (5)', 'complete', 'St') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('8', 'wood frame (5)', 'complete', 'St') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', 'otc alterations permit', 'wood frame (5)', 'complete', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', 'wood frame (5)', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('otc alterations permit', '8', 'wood frame (5)', 'complete', 'St') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
+Rule: ('5.0', 'otc alterations permit', '2.0', 'complete', 'St') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '8', '2.0', 'complete', 'St') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', 'wood frame (5)') ==> ('5.0', '8') , confidence = 1.000 , Lift = 1.791
+Rule: ('1 family dwelling', '8', '2.0', 'wood frame (5)') ==> ('5.0', 'otc alterations permit') , confidence = 1.000 , Lift = 1.791
+Rule: ('5.0', '1 family dwelling', '2.0', 'wood frame (5)', 'otc alterations permit') ==> ('8',) , confidence = 1.000 , Lift = 1.112
+Rule: ('5.0', '1 family dwelling', '2.0', 'wood frame (5)', '8') ==> ('otc alterations permit',) , confidence = 1.000 , Lift = 1.112
+Rule: ('1 family dwelling', 'otc alterations permit', '2.0', 'wood frame (5)', '8') ==> ('5.0',) , confidence = 1.000 , Lift = 1.588
